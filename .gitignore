@@ -3,10 +3,18 @@ books/epub_pdf/
 books/txt/
 books/metadata/
 
+# Embedding data (too large for git)
+embedding/models/
+embedding/vectordb/
+
 # Logs
 logs/
+scraping/logs/
 
 # Python
 __pycache__/
 *.pyc
 .venv/
+
+# Node
+front/node_modules/

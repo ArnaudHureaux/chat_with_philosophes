@@ -65,7 +65,7 @@ EXT_PRIORITY = {"epub": 0, "pdf": 1, "txt": 2, "djvu": 3, "mobi": 4}
 #  LOGGING
 # ═══════════════════════════════════════════════════════════
 
-LOG_DIR = BASE_DIR / "logs"
+LOG_DIR = Path(__file__).resolve().parent / "logs"
 LOG_DIR.mkdir(exist_ok=True)
 
 logging.basicConfig(
