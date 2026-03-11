@@ -1,0 +1,12 @@
+# Books (too large for git)
+books/epub_pdf/
+books/txt/
+books/metadata/
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

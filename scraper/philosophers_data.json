@@ -1,0 +1,4662 @@
+{
+  "1": {
+    "name": "Thalès de Milet",
+    "queries": [
+      "Thales of Miletus",
+      "Thalès de Milet"
+    ],
+    "death_year": -546
+  },
+  "2": {
+    "name": "Anaximandre",
+    "queries": [
+      "Anaximander",
+      "Anaximandre"
+    ],
+    "death_year": -546
+  },
+  "3": {
+    "name": "Anaximène",
+    "queries": [
+      "Anaximenes",
+      "Anaximène"
+    ],
+    "death_year": -528
+  },
+  "4": {
+    "name": "Pythagore",
+    "queries": [
+      "Pythagoras",
+      "Pythagore"
+    ],
+    "death_year": -495
+  },
+  "5": {
+    "name": "Héraclite",
+    "queries": [
+      "Heraclitus",
+      "Héraclite"
+    ],
+    "death_year": -475
+  },
+  "6": {
+    "name": "Parménide",
+    "queries": [
+      "Parmenides",
+      "Parménide"
+    ],
+    "death_year": -450
+  },
+  "7": {
+    "name": "Zénon d'Élée",
+    "queries": [
+      "Zeno of Elea",
+      "Zénon d'Élée"
+    ],
+    "death_year": -430
+  },
+  "8": {
+    "name": "Empédocle",
+    "queries": [
+      "Empedocles",
+      "Empédocle"
+    ],
+    "death_year": -430
+  },
+  "9": {
+    "name": "Anaxagore",
+    "queries": [
+      "Anaxagoras",
+      "Anaxagore"
+    ],
+    "death_year": -428
+  },
+  "10": {
+    "name": "Démocrite",
+    "queries": [
+      "Democritus",
+      "Démocrite"
+    ],
+    "death_year": -370
+  },
+  "11": {
+    "name": "Leucippe",
+    "queries": [
+      "Leucippus",
+      "Leucippe"
+    ],
+    "death_year": -370
+  },
+  "12": {
+    "name": "Protagoras",
+    "queries": [
+      "Protagoras"
+    ],
+    "death_year": -420
+  },
+  "13": {
+    "name": "Gorgias",
+    "queries": [
+      "Gorgias"
+    ],
+    "death_year": -375
+  },
+  "14": {
+    "name": "Hippias",
+    "queries": [
+      "Hippias"
+    ],
+    "death_year": -400
+  },
+  "15": {
+    "name": "Prodicos",
+    "queries": [
+      "Prodicus",
+      "Prodicos"
+    ],
+    "death_year": -395
+  },
+  "16": {
+    "name": "Antiphon",
+    "queries": [
+      "Antiphon"
+    ],
+    "death_year": -411
+  },
+  "17": {
+    "name": "Socrate",
+    "queries": [
+      "Socrates",
+      "Socrate"
+    ],
+    "death_year": -399
+  },
+  "18": {
+    "name": "Platon",
+    "queries": [
+      "Plato",
+      "Platon"
+    ],
+    "death_year": -348
+  },
+  "19": {
+    "name": "Aristote",
+    "queries": [
+      "Aristotle",
+      "Aristote"
+    ],
+    "death_year": -322
+  },
+  "20": {
+    "name": "Xénophon",
+    "queries": [
+      "Xenophon",
+      "Xénophon"
+    ],
+    "death_year": -354
+  },
+  "21": {
+    "name": "Antisthène",
+    "queries": [
+      "Antisthenes",
+      "Antisthène"
+    ],
+    "death_year": -365
+  },
+  "22": {
+    "name": "Diogène de Sinope",
+    "queries": [
+      "Diogenes of Sinope",
+      "Diogène de Sinope"
+    ],
+    "death_year": -323
+  },
+  "23": {
+    "name": "Cratès de Thèbes",
+    "queries": [
+      "Crates of Thebes",
+      "Cratès de Thèbes"
+    ],
+    "death_year": -285
+  },
+  "24": {
+    "name": "Aristippe de Cyrène",
+    "queries": [
+      "Aristippus",
+      "Aristippe de Cyrène"
+    ],
+    "death_year": -356
+  },
+  "25": {
+    "name": "Épicure",
+    "queries": [
+      "Epicurus",
+      "Épicure"
+    ],
+    "death_year": -270
+  },
+  "26": {
+    "name": "Lucrèce",
+    "queries": [
+      "Lucretius",
+      "Lucrèce"
+    ],
+    "death_year": -55
+  },
+  "27": {
+    "name": "Zénon de Kition",
+    "queries": [
+      "Zeno of Citium",
+      "Zénon de Kition"
+    ],
+    "death_year": -262
+  },
+  "28": {
+    "name": "Cléanthe",
+    "queries": [
+      "Cleanthes",
+      "Cléanthe"
+    ],
+    "death_year": -230
+  },
+  "29": {
+    "name": "Chrysippe",
+    "queries": [
+      "Chrysippus",
+      "Chrysippe"
+    ],
+    "death_year": -206
+  },
+  "30": {
+    "name": "Panétios de Rhodes",
+    "queries": [
+      "Panaetius",
+      "Panétios"
+    ],
+    "death_year": -109
+  },
+  "31": {
+    "name": "Posidonios",
+    "queries": [
+      "Posidonius",
+      "Posidonios"
+    ],
+    "death_year": -51
+  },
+  "32": {
+    "name": "Sénèque",
+    "queries": [
+      "Seneca",
+      "Sénèque"
+    ],
+    "death_year": 65
+  },
+  "33": {
+    "name": "Épictète",
+    "queries": [
+      "Epictetus",
+      "Épictète"
+    ],
+    "death_year": 135
+  },
+  "34": {
+    "name": "Marc Aurèle",
+    "queries": [
+      "Marcus Aurelius",
+      "Marc Aurèle"
+    ],
+    "death_year": 180
+  },
+  "35": {
+    "name": "Musonius Rufus",
+    "queries": [
+      "Musonius Rufus"
+    ],
+    "death_year": 101
+  },
+  "36": {
+    "name": "Cicéron",
+    "queries": [
+      "Cicero",
+      "Cicéron"
+    ],
+    "death_year": -43
+  },
+  "37": {
+    "name": "Pyrrhon",
+    "queries": [
+      "Pyrrho",
+      "Pyrrhon"
+    ],
+    "death_year": -270
+  },
+  "38": {
+    "name": "Timon de Phlionte",
+    "queries": [
+      "Timon of Phlius",
+      "Timon de Phlionte"
+    ],
+    "death_year": -230
+  },
+  "39": {
+    "name": "Sextus Empiricus",
+    "queries": [
+      "Sextus Empiricus"
+    ],
+    "death_year": 210
+  },
+  "40": {
+    "name": "Arcésilas",
+    "queries": [
+      "Arcesilaus",
+      "Arcésilas"
+    ],
+    "death_year": -241
+  },
+  "41": {
+    "name": "Carnéade",
+    "queries": [
+      "Carneades",
+      "Carnéade"
+    ],
+    "death_year": -128
+  },
+  "42": {
+    "name": "Philon d'Alexandrie",
+    "queries": [
+      "Philo of Alexandria",
+      "Philon d'Alexandrie"
+    ],
+    "death_year": 50
+  },
+  "43": {
+    "name": "Plotin",
+    "queries": [
+      "Plotinus",
+      "Plotin"
+    ],
+    "death_year": 270
+  },
+  "44": {
+    "name": "Porphyre",
+    "queries": [
+      "Porphyry",
+      "Porphyre"
+    ],
+    "death_year": 305
+  },
+  "45": {
+    "name": "Jamblique",
+    "queries": [
+      "Iamblichus",
+      "Jamblique"
+    ],
+    "death_year": 325
+  },
+  "46": {
+    "name": "Proclus",
+    "queries": [
+      "Proclus"
+    ],
+    "death_year": 485
+  },
+  "47": {
+    "name": "Hypatie",
+    "queries": [
+      "Hypatia",
+      "Hypatie"
+    ],
+    "death_year": 415
+  },
+  "48": {
+    "name": "Théophraste",
+    "queries": [
+      "Theophrastus",
+      "Théophraste"
+    ],
+    "death_year": -287
+  },
+  "49": {
+    "name": "Plutarque",
+    "queries": [
+      "Plutarch",
+      "Plutarque"
+    ],
+    "death_year": 120
+  },
+  "50": {
+    "name": "Diogène Laërce",
+    "queries": [
+      "Diogenes Laertius",
+      "Diogène Laërce"
+    ],
+    "death_year": 250
+  },
+  "51": {
+    "name": "Saint Augustin",
+    "queries": [
+      "Augustine of Hippo",
+      "Saint Augustine",
+      "Saint Augustin"
+    ],
+    "death_year": 430
+  },
+  "52": {
+    "name": "Boèce",
+    "queries": [
+      "Boethius",
+      "Boèce"
+    ],
+    "death_year": 524
+  },
+  "53": {
+    "name": "Pseudo-Denys l'Aréopagite",
+    "queries": [
+      "Pseudo-Dionysius the Areopagite",
+      "Pseudo-Denys"
+    ],
+    "death_year": 520
+  },
+  "54": {
+    "name": "Jean Damascène",
+    "queries": [
+      "John of Damascus",
+      "Jean Damascène"
+    ],
+    "death_year": 749
+  },
+  "55": {
+    "name": "Jean Scot Érigène",
+    "queries": [
+      "John Scotus Eriugena",
+      "Jean Scot Érigène"
+    ],
+    "death_year": 877
+  },
+  "56": {
+    "name": "Al-Kindi",
+    "queries": [
+      "Al-Kindi"
+    ],
+    "death_year": 873
+  },
+  "57": {
+    "name": "Al-Farabi",
+    "queries": [
+      "Al-Farabi"
+    ],
+    "death_year": 950
+  },
+  "58": {
+    "name": "Avicenne",
+    "queries": [
+      "Avicenna",
+      "Ibn Sina",
+      "Avicenne"
+    ],
+    "death_year": 1037
+  },
+  "59": {
+    "name": "Al-Ghazali",
+    "queries": [
+      "Al-Ghazali",
+      "Algazel"
+    ],
+    "death_year": 1111
+  },
+  "60": {
+    "name": "Averroès",
+    "queries": [
+      "Averroes",
+      "Ibn Rushd",
+      "Averroès"
+    ],
+    "death_year": 1198
+  },
+  "61": {
+    "name": "Ibn Khaldoun",
+    "queries": [
+      "Ibn Khaldun",
+      "Ibn Khaldoun"
+    ],
+    "death_year": 1406
+  },
+  "62": {
+    "name": "Maïmonide",
+    "queries": [
+      "Maimonides",
+      "Maïmonide"
+    ],
+    "death_year": 1204
+  },
+  "63": {
+    "name": "Anselme de Canterbury",
+    "queries": [
+      "Anselm of Canterbury",
+      "Anselme de Canterbury"
+    ],
+    "death_year": 1109
+  },
+  "64": {
+    "name": "Pierre Abélard",
+    "queries": [
+      "Peter Abelard",
+      "Pierre Abélard"
+    ],
+    "death_year": 1142
+  },
+  "65": {
+    "name": "Bernard de Clairvaux",
+    "queries": [
+      "Bernard of Clairvaux",
+      "Bernard de Clairvaux"
+    ],
+    "death_year": 1153
+  },
+  "66": {
+    "name": "Albert le Grand",
+    "queries": [
+      "Albertus Magnus",
+      "Albert le Grand"
+    ],
+    "death_year": 1280
+  },
+  "67": {
+    "name": "Thomas d'Aquin",
+    "queries": [
+      "Thomas Aquinas",
+      "Thomas d'Aquin"
+    ],
+    "death_year": 1274
+  },
+  "68": {
+    "name": "Bonaventure",
+    "queries": [
+      "Bonaventure"
+    ],
+    "death_year": 1274
+  },
+  "69": {
+    "name": "Roger Bacon",
+    "queries": [
+      "Roger Bacon"
+    ],
+    "death_year": 1292
+  },
+  "70": {
+    "name": "Duns Scot",
+    "queries": [
+      "Duns Scotus",
+      "Duns Scot"
+    ],
+    "death_year": 1308
+  },
+  "71": {
+    "name": "Maître Eckhart",
+    "queries": [
+      "Meister Eckhart",
+      "Maître Eckhart"
+    ],
+    "death_year": 1328
+  },
+  "72": {
+    "name": "Guillaume d'Ockham",
+    "queries": [
+      "William of Ockham",
+      "Guillaume d'Ockham"
+    ],
+    "death_year": 1347
+  },
+  "73": {
+    "name": "Nicolas de Cues",
+    "queries": [
+      "Nicholas of Cusa",
+      "Nicolas de Cues"
+    ],
+    "death_year": 1464
+  },
+  "74": {
+    "name": "Raymond Lulle",
+    "queries": [
+      "Ramon Llull",
+      "Raymond Lulle"
+    ],
+    "death_year": 1316
+  },
+  "75": {
+    "name": "Jean Buridan",
+    "queries": [
+      "Jean Buridan",
+      "John Buridan"
+    ],
+    "death_year": 1361
+  },
+  "76": {
+    "name": "Érasme",
+    "queries": [
+      "Erasmus",
+      "Érasme"
+    ],
+    "death_year": 1536
+  },
+  "77": {
+    "name": "Machiavel",
+    "queries": [
+      "Machiavelli",
+      "Machiavel"
+    ],
+    "death_year": 1527
+  },
+  "78": {
+    "name": "Thomas More",
+    "queries": [
+      "Thomas More"
+    ],
+    "death_year": 1535
+  },
+  "79": {
+    "name": "Michel de Montaigne",
+    "queries": [
+      "Montaigne",
+      "Michel de Montaigne"
+    ],
+    "death_year": 1592
+  },
+  "80": {
+    "name": "Étienne de La Boétie",
+    "queries": [
+      "Etienne de La Boetie",
+      "La Boétie"
+    ],
+    "death_year": 1563
+  },
+  "81": {
+    "name": "Giordano Bruno",
+    "queries": [
+      "Giordano Bruno"
+    ],
+    "death_year": 1600
+  },
+  "82": {
+    "name": "Tommaso Campanella",
+    "queries": [
+      "Tommaso Campanella"
+    ],
+    "death_year": 1639
+  },
+  "83": {
+    "name": "Marsile Ficin",
+    "queries": [
+      "Marsilio Ficino",
+      "Marsile Ficin"
+    ],
+    "death_year": 1499
+  },
+  "84": {
+    "name": "Pic de la Mirandole",
+    "queries": [
+      "Pico della Mirandola",
+      "Pic de la Mirandole"
+    ],
+    "death_year": 1494
+  },
+  "85": {
+    "name": "Jean Bodin",
+    "queries": [
+      "Jean Bodin"
+    ],
+    "death_year": 1596
+  },
+  "86": {
+    "name": "Francisco de Vitoria",
+    "queries": [
+      "Francisco de Vitoria"
+    ],
+    "death_year": 1546
+  },
+  "87": {
+    "name": "Francisco Suárez",
+    "queries": [
+      "Francisco Suarez",
+      "Francisco Suárez"
+    ],
+    "death_year": 1617
+  },
+  "88": {
+    "name": "Michel de l'Hôpital",
+    "queries": [
+      "Michel de l'Hospital"
+    ],
+    "death_year": 1573
+  },
+  "89": {
+    "name": "Pierre Charron",
+    "queries": [
+      "Pierre Charron"
+    ],
+    "death_year": 1603
+  },
+  "90": {
+    "name": "Juste Lipse",
+    "queries": [
+      "Justus Lipsius",
+      "Juste Lipse"
+    ],
+    "death_year": 1606
+  },
+  "91": {
+    "name": "Francis Bacon",
+    "queries": [
+      "Francis Bacon"
+    ],
+    "death_year": 1626
+  },
+  "92": {
+    "name": "René Descartes",
+    "queries": [
+      "Rene Descartes",
+      "René Descartes"
+    ],
+    "death_year": 1650
+  },
+  "93": {
+    "name": "Blaise Pascal",
+    "queries": [
+      "Blaise Pascal"
+    ],
+    "death_year": 1662
+  },
+  "94": {
+    "name": "Baruch Spinoza",
+    "queries": [
+      "Baruch Spinoza",
+      "Spinoza"
+    ],
+    "death_year": 1677
+  },
+  "95": {
+    "name": "Gottfried Wilhelm Leibniz",
+    "queries": [
+      "Leibniz",
+      "Gottfried Wilhelm Leibniz"
+    ],
+    "death_year": 1716
+  },
+  "96": {
+    "name": "Nicolas Malebranche",
+    "queries": [
+      "Nicolas Malebranche",
+      "Malebranche"
+    ],
+    "death_year": 1715
+  },
+  "97": {
+    "name": "Thomas Hobbes",
+    "queries": [
+      "Thomas Hobbes"
+    ],
+    "death_year": 1679
+  },
+  "98": {
+    "name": "John Locke",
+    "queries": [
+      "John Locke"
+    ],
+    "death_year": 1704
+  },
+  "99": {
+    "name": "Pierre Bayle",
+    "queries": [
+      "Pierre Bayle"
+    ],
+    "death_year": 1706
+  },
+  "100": {
+    "name": "Antoine Arnauld",
+    "queries": [
+      "Antoine Arnauld"
+    ],
+    "death_year": 1694
+  },
+  "101": {
+    "name": "Pierre Nicole",
+    "queries": [
+      "Pierre Nicole"
+    ],
+    "death_year": 1695
+  },
+  "102": {
+    "name": "La Rochefoucauld",
+    "queries": [
+      "La Rochefoucauld",
+      "François de La Rochefoucauld"
+    ],
+    "death_year": 1680
+  },
+  "103": {
+    "name": "La Bruyère",
+    "queries": [
+      "La Bruyere",
+      "Jean de La Bruyère"
+    ],
+    "death_year": 1696
+  },
+  "104": {
+    "name": "Bossuet",
+    "queries": [
+      "Bossuet",
+      "Jacques-Bénigne Bossuet"
+    ],
+    "death_year": 1704
+  },
+  "105": {
+    "name": "Fénelon",
+    "queries": [
+      "Fenelon",
+      "François Fénelon"
+    ],
+    "death_year": 1715
+  },
+  "106": {
+    "name": "Pierre Gassendi",
+    "queries": [
+      "Pierre Gassendi",
+      "Gassendi"
+    ],
+    "death_year": 1655
+  },
+  "107": {
+    "name": "Hugo Grotius",
+    "queries": [
+      "Hugo Grotius"
+    ],
+    "death_year": 1645
+  },
+  "108": {
+    "name": "Samuel von Pufendorf",
+    "queries": [
+      "Samuel von Pufendorf",
+      "Pufendorf"
+    ],
+    "death_year": 1694
+  },
+  "109": {
+    "name": "Anne Conway",
+    "queries": [
+      "Anne Conway"
+    ],
+    "death_year": 1679
+  },
+  "110": {
+    "name": "Ralph Cudworth",
+    "queries": [
+      "Ralph Cudworth"
+    ],
+    "death_year": 1688
+  },
+  "111": {
+    "name": "Voltaire",
+    "queries": [
+      "Voltaire"
+    ],
+    "death_year": 1778
+  },
+  "112": {
+    "name": "Jean-Jacques Rousseau",
+    "queries": [
+      "Jean-Jacques Rousseau",
+      "Rousseau"
+    ],
+    "death_year": 1778
+  },
+  "113": {
+    "name": "Denis Diderot",
+    "queries": [
+      "Denis Diderot",
+      "Diderot"
+    ],
+    "death_year": 1784
+  },
+  "114": {
+    "name": "Montesquieu",
+    "queries": [
+      "Montesquieu"
+    ],
+    "death_year": 1755
+  },
+  "115": {
+    "name": "D'Alembert",
+    "queries": [
+      "D'Alembert",
+      "Jean le Rond d'Alembert"
+    ],
+    "death_year": 1783
+  },
+  "116": {
+    "name": "Condillac",
+    "queries": [
+      "Condillac",
+      "Étienne Bonnot de Condillac"
+    ],
+    "death_year": 1780
+  },
+  "117": {
+    "name": "Helvétius",
+    "queries": [
+      "Helvetius",
+      "Claude Adrien Helvétius"
+    ],
+    "death_year": 1771
+  },
+  "118": {
+    "name": "D'Holbach",
+    "queries": [
+      "D'Holbach",
+      "Baron d'Holbach"
+    ],
+    "death_year": 1789
+  },
+  "119": {
+    "name": "La Mettrie",
+    "queries": [
+      "La Mettrie",
+      "Julien Offray de La Mettrie"
+    ],
+    "death_year": 1751
+  },
+  "120": {
+    "name": "Condorcet",
+    "queries": [
+      "Condorcet",
+      "Nicolas de Condorcet"
+    ],
+    "death_year": 1794
+  },
+  "121": {
+    "name": "Marquis de Sade",
+    "queries": [
+      "Marquis de Sade",
+      "Sade"
+    ],
+    "death_year": 1814
+  },
+  "122": {
+    "name": "Chamfort",
+    "queries": [
+      "Chamfort",
+      "Nicolas Chamfort"
+    ],
+    "death_year": 1794
+  },
+  "123": {
+    "name": "Vauvenargues",
+    "queries": [
+      "Vauvenargues",
+      "Luc de Clapiers"
+    ],
+    "death_year": 1747
+  },
+  "124": {
+    "name": "Emmanuel Kant",
+    "queries": [
+      "Immanuel Kant",
+      "Emmanuel Kant"
+    ],
+    "death_year": 1804
+  },
+  "125": {
+    "name": "David Hume",
+    "queries": [
+      "David Hume"
+    ],
+    "death_year": 1776
+  },
+  "126": {
+    "name": "George Berkeley",
+    "queries": [
+      "George Berkeley"
+    ],
+    "death_year": 1753
+  },
+  "127": {
+    "name": "Adam Smith",
+    "queries": [
+      "Adam Smith"
+    ],
+    "death_year": 1790
+  },
+  "128": {
+    "name": "Thomas Reid",
+    "queries": [
+      "Thomas Reid"
+    ],
+    "death_year": 1796
+  },
+  "129": {
+    "name": "Edmund Burke",
+    "queries": [
+      "Edmund Burke"
+    ],
+    "death_year": 1797
+  },
+  "130": {
+    "name": "Thomas Paine",
+    "queries": [
+      "Thomas Paine"
+    ],
+    "death_year": 1809
+  },
+  "131": {
+    "name": "Jeremy Bentham",
+    "queries": [
+      "Jeremy Bentham"
+    ],
+    "death_year": 1832
+  },
+  "132": {
+    "name": "Giambattista Vico",
+    "queries": [
+      "Giambattista Vico"
+    ],
+    "death_year": 1744
+  },
+  "133": {
+    "name": "Moses Mendelssohn",
+    "queries": [
+      "Moses Mendelssohn"
+    ],
+    "death_year": 1786
+  },
+  "134": {
+    "name": "Christian Wolff",
+    "queries": [
+      "Christian Wolff"
+    ],
+    "death_year": 1754
+  },
+  "135": {
+    "name": "Johann Georg Hamann",
+    "queries": [
+      "Johann Georg Hamann"
+    ],
+    "death_year": 1788
+  },
+  "136": {
+    "name": "Johann Gottfried Herder",
+    "queries": [
+      "Johann Gottfried Herder"
+    ],
+    "death_year": 1803
+  },
+  "137": {
+    "name": "Mary Wollstonecraft",
+    "queries": [
+      "Mary Wollstonecraft"
+    ],
+    "death_year": 1797
+  },
+  "138": {
+    "name": "Benjamin Constant",
+    "queries": [
+      "Benjamin Constant"
+    ],
+    "death_year": 1830
+  },
+  "139": {
+    "name": "Maine de Biran",
+    "queries": [
+      "Maine de Biran"
+    ],
+    "death_year": 1824
+  },
+  "140": {
+    "name": "Joseph de Maistre",
+    "queries": [
+      "Joseph de Maistre"
+    ],
+    "death_year": 1821
+  },
+  "141": {
+    "name": "Johann Gottlieb Fichte",
+    "queries": [
+      "Johann Gottlieb Fichte"
+    ],
+    "death_year": 1814
+  },
+  "142": {
+    "name": "Friedrich Schelling",
+    "queries": [
+      "Friedrich Schelling"
+    ],
+    "death_year": 1854
+  },
+  "143": {
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "queries": [
+      "Hegel",
+      "Georg Wilhelm Friedrich Hegel"
+    ],
+    "death_year": 1831
+  },
+  "144": {
+    "name": "Arthur Schopenhauer",
+    "queries": [
+      "Arthur Schopenhauer",
+      "Schopenhauer"
+    ],
+    "death_year": 1860
+  },
+  "145": {
+    "name": "Friedrich Nietzsche",
+    "queries": [
+      "Friedrich Nietzsche",
+      "Nietzsche"
+    ],
+    "death_year": 1900
+  },
+  "146": {
+    "name": "Ludwig Feuerbach",
+    "queries": [
+      "Ludwig Feuerbach"
+    ],
+    "death_year": 1872
+  },
+  "147": {
+    "name": "Karl Marx",
+    "queries": [
+      "Karl Marx"
+    ],
+    "death_year": 1883
+  },
+  "148": {
+    "name": "Friedrich Engels",
+    "queries": [
+      "Friedrich Engels"
+    ],
+    "death_year": 1895
+  },
+  "149": {
+    "name": "Max Stirner",
+    "queries": [
+      "Max Stirner"
+    ],
+    "death_year": 1856
+  },
+  "150": {
+    "name": "Søren Kierkegaard",
+    "queries": [
+      "Soren Kierkegaard",
+      "Kierkegaard"
+    ],
+    "death_year": 1855
+  },
+  "151": {
+    "name": "Auguste Comte",
+    "queries": [
+      "Auguste Comte"
+    ],
+    "death_year": 1857
+  },
+  "152": {
+    "name": "John Stuart Mill",
+    "queries": [
+      "John Stuart Mill"
+    ],
+    "death_year": 1873
+  },
+  "153": {
+    "name": "Herbert Spencer",
+    "queries": [
+      "Herbert Spencer"
+    ],
+    "death_year": 1903
+  },
+  "154": {
+    "name": "Henry David Thoreau",
+    "queries": [
+      "Henry David Thoreau"
+    ],
+    "death_year": 1862
+  },
+  "155": {
+    "name": "Ralph Waldo Emerson",
+    "queries": [
+      "Ralph Waldo Emerson"
+    ],
+    "death_year": 1882
+  },
+  "156": {
+    "name": "Walt Whitman",
+    "queries": [
+      "Walt Whitman"
+    ],
+    "death_year": 1892
+  },
+  "157": {
+    "name": "Pierre-Joseph Proudhon",
+    "queries": [
+      "Pierre-Joseph Proudhon",
+      "Proudhon"
+    ],
+    "death_year": 1865
+  },
+  "158": {
+    "name": "Mikhaïl Bakounine",
+    "queries": [
+      "Mikhail Bakunin",
+      "Bakounine"
+    ],
+    "death_year": 1876
+  },
+  "159": {
+    "name": "Pierre Kropotkine",
+    "queries": [
+      "Peter Kropotkin",
+      "Kropotkine"
+    ],
+    "death_year": 1921
+  },
+  "160": {
+    "name": "Alexis de Tocqueville",
+    "queries": [
+      "Alexis de Tocqueville",
+      "Tocqueville"
+    ],
+    "death_year": 1859
+  },
+  "161": {
+    "name": "Victor Cousin",
+    "queries": [
+      "Victor Cousin"
+    ],
+    "death_year": 1867
+  },
+  "162": {
+    "name": "Ernest Renan",
+    "queries": [
+      "Ernest Renan"
+    ],
+    "death_year": 1892
+  },
+  "163": {
+    "name": "Hippolyte Taine",
+    "queries": [
+      "Hippolyte Taine"
+    ],
+    "death_year": 1893
+  },
+  "164": {
+    "name": "Charles Sanders Peirce",
+    "queries": [
+      "Charles Sanders Peirce"
+    ],
+    "death_year": 1914
+  },
+  "165": {
+    "name": "William James",
+    "queries": [
+      "William James"
+    ],
+    "death_year": 1910
+  },
+  "166": {
+    "name": "John Dewey",
+    "queries": [
+      "John Dewey"
+    ],
+    "death_year": 1952
+  },
+  "167": {
+    "name": "Gottlob Frege",
+    "queries": [
+      "Gottlob Frege"
+    ],
+    "death_year": 1925
+  },
+  "168": {
+    "name": "Franz Brentano",
+    "queries": [
+      "Franz Brentano"
+    ],
+    "death_year": 1917
+  },
+  "169": {
+    "name": "Wilhelm Dilthey",
+    "queries": [
+      "Wilhelm Dilthey"
+    ],
+    "death_year": 1911
+  },
+  "170": {
+    "name": "Charles Renouvier",
+    "queries": [
+      "Charles Renouvier"
+    ],
+    "death_year": 1903
+  },
+  "171": {
+    "name": "Jules Lagneau",
+    "queries": [
+      "Jules Lagneau"
+    ],
+    "death_year": 1894
+  },
+  "172": {
+    "name": "Émile Boutroux",
+    "queries": [
+      "Emile Boutroux",
+      "Émile Boutroux"
+    ],
+    "death_year": 1921
+  },
+  "173": {
+    "name": "Alfred Fouillée",
+    "queries": [
+      "Alfred Fouillee",
+      "Alfred Fouillée"
+    ],
+    "death_year": 1912
+  },
+  "174": {
+    "name": "Jean-Marie Guyau",
+    "queries": [
+      "Jean-Marie Guyau"
+    ],
+    "death_year": 1888
+  },
+  "175": {
+    "name": "Léon Brunschvicg",
+    "queries": [
+      "Leon Brunschvicg",
+      "Léon Brunschvicg"
+    ],
+    "death_year": 1944
+  },
+  "176": {
+    "name": "Friedrich Schleiermacher",
+    "queries": [
+      "Friedrich Schleiermacher"
+    ],
+    "death_year": 1834
+  },
+  "177": {
+    "name": "Novalis",
+    "queries": [
+      "Novalis"
+    ],
+    "death_year": 1801
+  },
+  "178": {
+    "name": "Friedrich Schlegel",
+    "queries": [
+      "Friedrich Schlegel"
+    ],
+    "death_year": 1829
+  },
+  "179": {
+    "name": "Giacomo Leopardi",
+    "queries": [
+      "Giacomo Leopardi"
+    ],
+    "death_year": 1837
+  },
+  "180": {
+    "name": "Henri Bergson",
+    "queries": [
+      "Henri Bergson"
+    ],
+    "death_year": 1941
+  },
+  "181": {
+    "name": "Edmund Husserl",
+    "queries": [
+      "Edmund Husserl"
+    ],
+    "death_year": 1938
+  },
+  "182": {
+    "name": "Georg Simmel",
+    "queries": [
+      "Georg Simmel"
+    ],
+    "death_year": 1918
+  },
+  "183": {
+    "name": "Max Weber",
+    "queries": [
+      "Max Weber"
+    ],
+    "death_year": 1920
+  },
+  "184": {
+    "name": "Émile Durkheim",
+    "queries": [
+      "Emile Durkheim",
+      "Émile Durkheim"
+    ],
+    "death_year": 1917
+  },
+  "185": {
+    "name": "Sigmund Freud",
+    "queries": [
+      "Sigmund Freud"
+    ],
+    "death_year": 1939
+  },
+  "186": {
+    "name": "Bertrand Russell",
+    "queries": [
+      "Bertrand Russell"
+    ],
+    "death_year": 1970
+  },
+  "187": {
+    "name": "Alfred North Whitehead",
+    "queries": [
+      "Alfred North Whitehead"
+    ],
+    "death_year": 1947
+  },
+  "188": {
+    "name": "George Santayana",
+    "queries": [
+      "George Santayana"
+    ],
+    "death_year": 1952
+  },
+  "189": {
+    "name": "Miguel de Unamuno",
+    "queries": [
+      "Miguel de Unamuno"
+    ],
+    "death_year": 1936
+  },
+  "190": {
+    "name": "José Ortega y Gasset",
+    "queries": [
+      "Jose Ortega y Gasset",
+      "Ortega y Gasset"
+    ],
+    "death_year": 1955
+  },
+  "191": {
+    "name": "Martin Heidegger",
+    "queries": [
+      "Martin Heidegger",
+      "Heidegger"
+    ],
+    "death_year": 1976
+  },
+  "192": {
+    "name": "Jean-Paul Sartre",
+    "queries": [
+      "Jean-Paul Sartre",
+      "Sartre"
+    ],
+    "death_year": 1980
+  },
+  "193": {
+    "name": "Simone de Beauvoir",
+    "queries": [
+      "Simone de Beauvoir"
+    ],
+    "death_year": 1986
+  },
+  "194": {
+    "name": "Albert Camus",
+    "queries": [
+      "Albert Camus"
+    ],
+    "death_year": 1960
+  },
+  "195": {
+    "name": "Maurice Merleau-Ponty",
+    "queries": [
+      "Maurice Merleau-Ponty",
+      "Merleau-Ponty"
+    ],
+    "death_year": 1961
+  },
+  "196": {
+    "name": "Gabriel Marcel",
+    "queries": [
+      "Gabriel Marcel"
+    ],
+    "death_year": 1973
+  },
+  "197": {
+    "name": "Karl Jaspers",
+    "queries": [
+      "Karl Jaspers"
+    ],
+    "death_year": 1969
+  },
+  "198": {
+    "name": "Emmanuel Levinas",
+    "queries": [
+      "Emmanuel Levinas"
+    ],
+    "death_year": 1995
+  },
+  "199": {
+    "name": "Paul Ricœur",
+    "queries": [
+      "Paul Ricoeur",
+      "Paul Ricœur"
+    ],
+    "death_year": 2005
+  },
+  "200": {
+    "name": "Hans-Georg Gadamer",
+    "queries": [
+      "Hans-Georg Gadamer"
+    ],
+    "death_year": 2002
+  },
+  "201": {
+    "name": "Max Scheler",
+    "queries": [
+      "Max Scheler"
+    ],
+    "death_year": 1928
+  },
+  "202": {
+    "name": "Edith Stein",
+    "queries": [
+      "Edith Stein"
+    ],
+    "death_year": 1942
+  },
+  "203": {
+    "name": "Eugen Fink",
+    "queries": [
+      "Eugen Fink"
+    ],
+    "death_year": 1975
+  },
+  "204": {
+    "name": "Jan Patočka",
+    "queries": [
+      "Jan Patocka",
+      "Jan Patočka"
+    ],
+    "death_year": 1977
+  },
+  "205": {
+    "name": "Hannah Arendt",
+    "queries": [
+      "Hannah Arendt"
+    ],
+    "death_year": 1975
+  },
+  "206": {
+    "name": "Günther Anders",
+    "queries": [
+      "Gunther Anders",
+      "Günther Anders"
+    ],
+    "death_year": 1992
+  },
+  "207": {
+    "name": "Ludwig Wittgenstein",
+    "queries": [
+      "Ludwig Wittgenstein",
+      "Wittgenstein"
+    ],
+    "death_year": 1951
+  },
+  "208": {
+    "name": "Rudolf Carnap",
+    "queries": [
+      "Rudolf Carnap"
+    ],
+    "death_year": 1970
+  },
+  "209": {
+    "name": "Moritz Schlick",
+    "queries": [
+      "Moritz Schlick"
+    ],
+    "death_year": 1936
+  },
+  "210": {
+    "name": "Otto Neurath",
+    "queries": [
+      "Otto Neurath"
+    ],
+    "death_year": 1945
+  },
+  "211": {
+    "name": "Karl Popper",
+    "queries": [
+      "Karl Popper"
+    ],
+    "death_year": 1994
+  },
+  "212": {
+    "name": "Thomas Kuhn",
+    "queries": [
+      "Thomas Kuhn"
+    ],
+    "death_year": 1996
+  },
+  "213": {
+    "name": "Paul Feyerabend",
+    "queries": [
+      "Paul Feyerabend"
+    ],
+    "death_year": 1994
+  },
+  "214": {
+    "name": "Imre Lakatos",
+    "queries": [
+      "Imre Lakatos"
+    ],
+    "death_year": 1974
+  },
+  "215": {
+    "name": "Willard Van Orman Quine",
+    "queries": [
+      "W.V.O. Quine",
+      "Willard Van Orman Quine"
+    ],
+    "death_year": 2000
+  },
+  "216": {
+    "name": "Gilbert Ryle",
+    "queries": [
+      "Gilbert Ryle"
+    ],
+    "death_year": 1976
+  },
+  "217": {
+    "name": "John L. Austin",
+    "queries": [
+      "J.L. Austin",
+      "John Langshaw Austin"
+    ],
+    "death_year": 1960
+  },
+  "218": {
+    "name": "Peter Strawson",
+    "queries": [
+      "P.F. Strawson",
+      "Peter Strawson"
+    ],
+    "death_year": 2006
+  },
+  "219": {
+    "name": "Donald Davidson",
+    "queries": [
+      "Donald Davidson"
+    ],
+    "death_year": 2003
+  },
+  "220": {
+    "name": "Hilary Putnam",
+    "queries": [
+      "Hilary Putnam"
+    ],
+    "death_year": 2016
+  },
+  "221": {
+    "name": "Saul Kripke",
+    "queries": [
+      "Saul Kripke"
+    ],
+    "death_year": 2022
+  },
+  "222": {
+    "name": "David Lewis",
+    "queries": [
+      "David Lewis"
+    ],
+    "death_year": 2001
+  },
+  "223": {
+    "name": "Nelson Goodman",
+    "queries": [
+      "Nelson Goodman"
+    ],
+    "death_year": 1998
+  },
+  "224": {
+    "name": "Alfred Tarski",
+    "queries": [
+      "Alfred Tarski"
+    ],
+    "death_year": 1983
+  },
+  "225": {
+    "name": "Kurt Gödel",
+    "queries": [
+      "Kurt Godel",
+      "Kurt Gödel"
+    ],
+    "death_year": 1978
+  },
+  "226": {
+    "name": "Theodor W. Adorno",
+    "queries": [
+      "Theodor Adorno",
+      "Theodor W. Adorno"
+    ],
+    "death_year": 1969
+  },
+  "227": {
+    "name": "Max Horkheimer",
+    "queries": [
+      "Max Horkheimer"
+    ],
+    "death_year": 1973
+  },
+  "228": {
+    "name": "Walter Benjamin",
+    "queries": [
+      "Walter Benjamin"
+    ],
+    "death_year": 1940
+  },
+  "229": {
+    "name": "Herbert Marcuse",
+    "queries": [
+      "Herbert Marcuse"
+    ],
+    "death_year": 1979
+  },
+  "230": {
+    "name": "Erich Fromm",
+    "queries": [
+      "Erich Fromm"
+    ],
+    "death_year": 1980
+  },
+  "231": {
+    "name": "Jürgen Habermas",
+    "queries": [
+      "Jurgen Habermas",
+      "Jürgen Habermas"
+    ],
+    "death_year": 0
+  },
+  "232": {
+    "name": "Axel Honneth",
+    "queries": [
+      "Axel Honneth"
+    ],
+    "death_year": 0
+  },
+  "233": {
+    "name": "Ferdinand de Saussure",
+    "queries": [
+      "Ferdinand de Saussure"
+    ],
+    "death_year": 1913
+  },
+  "234": {
+    "name": "Claude Lévi-Strauss",
+    "queries": [
+      "Claude Levi-Strauss",
+      "Claude Lévi-Strauss"
+    ],
+    "death_year": 2009
+  },
+  "235": {
+    "name": "Roland Barthes",
+    "queries": [
+      "Roland Barthes"
+    ],
+    "death_year": 1980
+  },
+  "236": {
+    "name": "Louis Althusser",
+    "queries": [
+      "Louis Althusser"
+    ],
+    "death_year": 1990
+  },
+  "237": {
+    "name": "Michel Foucault",
+    "queries": [
+      "Michel Foucault"
+    ],
+    "death_year": 1984
+  },
+  "238": {
+    "name": "Jacques Derrida",
+    "queries": [
+      "Jacques Derrida"
+    ],
+    "death_year": 2004
+  },
+  "239": {
+    "name": "Gilles Deleuze",
+    "queries": [
+      "Gilles Deleuze"
+    ],
+    "death_year": 1995
+  },
+  "240": {
+    "name": "Félix Guattari",
+    "queries": [
+      "Felix Guattari",
+      "Félix Guattari"
+    ],
+    "death_year": 1992
+  },
+  "241": {
+    "name": "Jean-François Lyotard",
+    "queries": [
+      "Jean-Francois Lyotard",
+      "Lyotard"
+    ],
+    "death_year": 1998
+  },
+  "242": {
+    "name": "Jean Baudrillard",
+    "queries": [
+      "Jean Baudrillard"
+    ],
+    "death_year": 2007
+  },
+  "243": {
+    "name": "Jacques Lacan",
+    "queries": [
+      "Jacques Lacan"
+    ],
+    "death_year": 1981
+  },
+  "244": {
+    "name": "Pierre Bourdieu",
+    "queries": [
+      "Pierre Bourdieu"
+    ],
+    "death_year": 2002
+  },
+  "245": {
+    "name": "Michel de Certeau",
+    "queries": [
+      "Michel de Certeau"
+    ],
+    "death_year": 1986
+  },
+  "246": {
+    "name": "Julia Kristeva",
+    "queries": [
+      "Julia Kristeva"
+    ],
+    "death_year": 0
+  },
+  "247": {
+    "name": "Luce Irigaray",
+    "queries": [
+      "Luce Irigaray"
+    ],
+    "death_year": 0
+  },
+  "248": {
+    "name": "Hélène Cixous",
+    "queries": [
+      "Helene Cixous",
+      "Hélène Cixous"
+    ],
+    "death_year": 0
+  },
+  "249": {
+    "name": "Antonio Gramsci",
+    "queries": [
+      "Antonio Gramsci"
+    ],
+    "death_year": 1937
+  },
+  "250": {
+    "name": "Georg Lukács",
+    "queries": [
+      "Georg Lukacs",
+      "György Lukács"
+    ],
+    "death_year": 1971
+  },
+  "251": {
+    "name": "Ernst Bloch",
+    "queries": [
+      "Ernst Bloch"
+    ],
+    "death_year": 1977
+  },
+  "252": {
+    "name": "Rosa Luxemburg",
+    "queries": [
+      "Rosa Luxemburg"
+    ],
+    "death_year": 1919
+  },
+  "253": {
+    "name": "Lénine",
+    "queries": [
+      "Vladimir Lenin",
+      "Lénine"
+    ],
+    "death_year": 1924
+  },
+  "254": {
+    "name": "Léon Trotski",
+    "queries": [
+      "Leon Trotsky",
+      "Léon Trotski"
+    ],
+    "death_year": 1940
+  },
+  "255": {
+    "name": "Mao Zedong",
+    "queries": [
+      "Mao Zedong",
+      "Mao Tse-tung"
+    ],
+    "death_year": 1976
+  },
+  "256": {
+    "name": "Guy Debord",
+    "queries": [
+      "Guy Debord"
+    ],
+    "death_year": 1994
+  },
+  "257": {
+    "name": "Raoul Vaneigem",
+    "queries": [
+      "Raoul Vaneigem"
+    ],
+    "death_year": 0
+  },
+  "258": {
+    "name": "Cornelius Castoriadis",
+    "queries": [
+      "Cornelius Castoriadis"
+    ],
+    "death_year": 1997
+  },
+  "259": {
+    "name": "Claude Lefort",
+    "queries": [
+      "Claude Lefort"
+    ],
+    "death_year": 2010
+  },
+  "260": {
+    "name": "Jacques Rancière",
+    "queries": [
+      "Jacques Ranciere",
+      "Jacques Rancière"
+    ],
+    "death_year": 0
+  },
+  "261": {
+    "name": "Alain Badiou",
+    "queries": [
+      "Alain Badiou"
+    ],
+    "death_year": 0
+  },
+  "262": {
+    "name": "Étienne Balibar",
+    "queries": [
+      "Etienne Balibar",
+      "Étienne Balibar"
+    ],
+    "death_year": 0
+  },
+  "263": {
+    "name": "Antonio Negri",
+    "queries": [
+      "Antonio Negri"
+    ],
+    "death_year": 2023
+  },
+  "264": {
+    "name": "John Rawls",
+    "queries": [
+      "John Rawls"
+    ],
+    "death_year": 2002
+  },
+  "265": {
+    "name": "Robert Nozick",
+    "queries": [
+      "Robert Nozick"
+    ],
+    "death_year": 2002
+  },
+  "266": {
+    "name": "Michael Walzer",
+    "queries": [
+      "Michael Walzer"
+    ],
+    "death_year": 2023
+  },
+  "267": {
+    "name": "Alasdair MacIntyre",
+    "queries": [
+      "Alasdair MacIntyre"
+    ],
+    "death_year": 0
+  },
+  "268": {
+    "name": "Charles Taylor",
+    "queries": [
+      "Charles Taylor"
+    ],
+    "death_year": 0
+  },
+  "269": {
+    "name": "Michael Sandel",
+    "queries": [
+      "Michael Sandel"
+    ],
+    "death_year": 0
+  },
+  "270": {
+    "name": "Amartya Sen",
+    "queries": [
+      "Amartya Sen"
+    ],
+    "death_year": 0
+  },
+  "271": {
+    "name": "Martha Nussbaum",
+    "queries": [
+      "Martha Nussbaum"
+    ],
+    "death_year": 0
+  },
+  "272": {
+    "name": "Isaiah Berlin",
+    "queries": [
+      "Isaiah Berlin"
+    ],
+    "death_year": 1997
+  },
+  "273": {
+    "name": "Leo Strauss",
+    "queries": [
+      "Leo Strauss"
+    ],
+    "death_year": 1973
+  },
+  "274": {
+    "name": "Carl Schmitt",
+    "queries": [
+      "Carl Schmitt"
+    ],
+    "death_year": 1985
+  },
+  "275": {
+    "name": "Eric Voegelin",
+    "queries": [
+      "Eric Voegelin"
+    ],
+    "death_year": 1985
+  },
+  "276": {
+    "name": "Philippa Foot",
+    "queries": [
+      "Philippa Foot"
+    ],
+    "death_year": 2010
+  },
+  "277": {
+    "name": "Elizabeth Anscombe",
+    "queries": [
+      "G.E.M. Anscombe",
+      "Elizabeth Anscombe"
+    ],
+    "death_year": 2001
+  },
+  "278": {
+    "name": "Bernard Williams",
+    "queries": [
+      "Bernard Williams"
+    ],
+    "death_year": 2003
+  },
+  "279": {
+    "name": "Derek Parfit",
+    "queries": [
+      "Derek Parfit"
+    ],
+    "death_year": 2017
+  },
+  "280": {
+    "name": "Peter Singer",
+    "queries": [
+      "Peter Singer"
+    ],
+    "death_year": 0
+  },
+  "281": {
+    "name": "Iris Murdoch",
+    "queries": [
+      "Iris Murdoch"
+    ],
+    "death_year": 1999
+  },
+  "282": {
+    "name": "Daniel Dennett",
+    "queries": [
+      "Daniel Dennett"
+    ],
+    "death_year": 2024
+  },
+  "283": {
+    "name": "Jerry Fodor",
+    "queries": [
+      "Jerry Fodor"
+    ],
+    "death_year": 2017
+  },
+  "284": {
+    "name": "John Searle",
+    "queries": [
+      "John Searle"
+    ],
+    "death_year": 0
+  },
+  "285": {
+    "name": "David Chalmers",
+    "queries": [
+      "David Chalmers"
+    ],
+    "death_year": 0
+  },
+  "286": {
+    "name": "Thomas Nagel",
+    "queries": [
+      "Thomas Nagel"
+    ],
+    "death_year": 0
+  },
+  "287": {
+    "name": "Patricia Churchland",
+    "queries": [
+      "Patricia Churchland"
+    ],
+    "death_year": 0
+  },
+  "288": {
+    "name": "Paul Churchland",
+    "queries": [
+      "Paul Churchland"
+    ],
+    "death_year": 0
+  },
+  "289": {
+    "name": "Frank Jackson",
+    "queries": [
+      "Frank Jackson"
+    ],
+    "death_year": 0
+  },
+  "290": {
+    "name": "Fred Dretske",
+    "queries": [
+      "Fred Dretske"
+    ],
+    "death_year": 2013
+  },
+  "291": {
+    "name": "Andy Clark",
+    "queries": [
+      "Andy Clark"
+    ],
+    "death_year": 0
+  },
+  "292": {
+    "name": "Alva Noë",
+    "queries": [
+      "Alva Noe",
+      "Alva Noë"
+    ],
+    "death_year": 0
+  },
+  "293": {
+    "name": "Francisco Varela",
+    "queries": [
+      "Francisco Varela"
+    ],
+    "death_year": 2001
+  },
+  "294": {
+    "name": "Simone Weil",
+    "queries": [
+      "Simone Weil"
+    ],
+    "death_year": 1943
+  },
+  "295": {
+    "name": "Georges Bataille",
+    "queries": [
+      "Georges Bataille"
+    ],
+    "death_year": 1962
+  },
+  "296": {
+    "name": "Maurice Blanchot",
+    "queries": [
+      "Maurice Blanchot"
+    ],
+    "death_year": 2003
+  },
+  "297": {
+    "name": "Emil Cioran",
+    "queries": [
+      "Emil Cioran"
+    ],
+    "death_year": 1995
+  },
+  "298": {
+    "name": "Vladimir Jankélévitch",
+    "queries": [
+      "Vladimir Jankelevitch",
+      "Jankélévitch"
+    ],
+    "death_year": 1985
+  },
+  "299": {
+    "name": "Gaston Bachelard",
+    "queries": [
+      "Gaston Bachelard"
+    ],
+    "death_year": 1962
+  },
+  "300": {
+    "name": "Georges Canguilhem",
+    "queries": [
+      "Georges Canguilhem"
+    ],
+    "death_year": 1995
+  },
+  "301": {
+    "name": "Alexandre Koyré",
+    "queries": [
+      "Alexandre Koyre",
+      "Alexandre Koyré"
+    ],
+    "death_year": 1964
+  },
+  "302": {
+    "name": "Raymond Aron",
+    "queries": [
+      "Raymond Aron"
+    ],
+    "death_year": 1983
+  },
+  "303": {
+    "name": "André Malraux",
+    "queries": [
+      "Andre Malraux",
+      "André Malraux"
+    ],
+    "death_year": 1976
+  },
+  "304": {
+    "name": "Albert Schweitzer",
+    "queries": [
+      "Albert Schweitzer"
+    ],
+    "death_year": 1965
+  },
+  "305": {
+    "name": "Teilhard de Chardin",
+    "queries": [
+      "Teilhard de Chardin"
+    ],
+    "death_year": 1955
+  },
+  "306": {
+    "name": "Jacques Maritain",
+    "queries": [
+      "Jacques Maritain"
+    ],
+    "death_year": 1973
+  },
+  "307": {
+    "name": "Étienne Gilson",
+    "queries": [
+      "Etienne Gilson",
+      "Étienne Gilson"
+    ],
+    "death_year": 1978
+  },
+  "308": {
+    "name": "Henri Lefebvre",
+    "queries": [
+      "Henri Lefebvre"
+    ],
+    "death_year": 1991
+  },
+  "309": {
+    "name": "Edgar Morin",
+    "queries": [
+      "Edgar Morin"
+    ],
+    "death_year": 0
+  },
+  "310": {
+    "name": "André Gorz",
+    "queries": [
+      "Andre Gorz",
+      "André Gorz"
+    ],
+    "death_year": 2007
+  },
+  "311": {
+    "name": "René Girard",
+    "queries": [
+      "Rene Girard",
+      "René Girard"
+    ],
+    "death_year": 2015
+  },
+  "312": {
+    "name": "Michel Serres",
+    "queries": [
+      "Michel Serres"
+    ],
+    "death_year": 2019
+  },
+  "313": {
+    "name": "Jean-Luc Nancy",
+    "queries": [
+      "Jean-Luc Nancy"
+    ],
+    "death_year": 2021
+  },
+  "314": {
+    "name": "Philippe Lacoue-Labarthe",
+    "queries": [
+      "Philippe Lacoue-Labarthe"
+    ],
+    "death_year": 2007
+  },
+  "315": {
+    "name": "Bernard Stiegler",
+    "queries": [
+      "Bernard Stiegler"
+    ],
+    "death_year": 2020
+  },
+  "316": {
+    "name": "Marcel Gauchet",
+    "queries": [
+      "Marcel Gauchet"
+    ],
+    "death_year": 0
+  },
+  "317": {
+    "name": "Pierre Hadot",
+    "queries": [
+      "Pierre Hadot"
+    ],
+    "death_year": 2010
+  },
+  "318": {
+    "name": "André Comte-Sponville",
+    "queries": [
+      "Andre Comte-Sponville",
+      "André Comte-Sponville"
+    ],
+    "death_year": 0
+  },
+  "319": {
+    "name": "Luc Ferry",
+    "queries": [
+      "Luc Ferry"
+    ],
+    "death_year": 0
+  },
+  "320": {
+    "name": "Michel Onfray",
+    "queries": [
+      "Michel Onfray"
+    ],
+    "death_year": 0
+  },
+  "321": {
+    "name": "Frédéric Lenoir",
+    "queries": [
+      "Frederic Lenoir",
+      "Frédéric Lenoir"
+    ],
+    "death_year": 0
+  },
+  "322": {
+    "name": "Raphaël Enthoven",
+    "queries": [
+      "Raphael Enthoven",
+      "Raphaël Enthoven"
+    ],
+    "death_year": 0
+  },
+  "323": {
+    "name": "Cynthia Fleury",
+    "queries": [
+      "Cynthia Fleury"
+    ],
+    "death_year": 0
+  },
+  "324": {
+    "name": "Corine Pelluchon",
+    "queries": [
+      "Corine Pelluchon"
+    ],
+    "death_year": 0
+  },
+  "325": {
+    "name": "Fiodor Dostoïevski",
+    "queries": [
+      "Fyodor Dostoevsky",
+      "Dostoïevski"
+    ],
+    "death_year": 1881
+  },
+  "326": {
+    "name": "Léon Tolstoï",
+    "queries": [
+      "Leo Tolstoy",
+      "Léon Tolstoï"
+    ],
+    "death_year": 1910
+  },
+  "327": {
+    "name": "Franz Kafka",
+    "queries": [
+      "Franz Kafka"
+    ],
+    "death_year": 1924
+  },
+  "328": {
+    "name": "Hermann Hesse",
+    "queries": [
+      "Hermann Hesse"
+    ],
+    "death_year": 1962
+  },
+  "329": {
+    "name": "Antoine de Saint-Exupéry",
+    "queries": [
+      "Antoine de Saint-Exupery",
+      "Saint-Exupéry"
+    ],
+    "death_year": 1944
+  },
+  "330": {
+    "name": "Jorge Luis Borges",
+    "queries": [
+      "Jorge Luis Borges"
+    ],
+    "death_year": 1986
+  },
+  "331": {
+    "name": "Italo Calvino",
+    "queries": [
+      "Italo Calvino"
+    ],
+    "death_year": 1985
+  },
+  "332": {
+    "name": "Umberto Eco",
+    "queries": [
+      "Umberto Eco"
+    ],
+    "death_year": 2016
+  },
+  "333": {
+    "name": "Fernando Pessoa",
+    "queries": [
+      "Fernando Pessoa"
+    ],
+    "death_year": 1935
+  },
+  "334": {
+    "name": "Paul Valéry",
+    "queries": [
+      "Paul Valery",
+      "Paul Valéry"
+    ],
+    "death_year": 1945
+  },
+  "335": {
+    "name": "Marcel Proust",
+    "queries": [
+      "Marcel Proust"
+    ],
+    "death_year": 1922
+  },
+  "336": {
+    "name": "André Gide",
+    "queries": [
+      "Andre Gide",
+      "André Gide"
+    ],
+    "death_year": 1951
+  },
+  "337": {
+    "name": "Rainer Maria Rilke",
+    "queries": [
+      "Rainer Maria Rilke"
+    ],
+    "death_year": 1926
+  },
+  "338": {
+    "name": "Oscar Wilde",
+    "queries": [
+      "Oscar Wilde"
+    ],
+    "death_year": 1900
+  },
+  "339": {
+    "name": "George Orwell",
+    "queries": [
+      "George Orwell"
+    ],
+    "death_year": 1950
+  },
+  "340": {
+    "name": "Aldous Huxley",
+    "queries": [
+      "Aldous Huxley"
+    ],
+    "death_year": 1963
+  },
+  "341": {
+    "name": "Marguerite Yourcenar",
+    "queries": [
+      "Marguerite Yourcenar"
+    ],
+    "death_year": 1987
+  },
+  "342": {
+    "name": "Nikos Kazantzaki",
+    "queries": [
+      "Nikos Kazantzakis",
+      "Kazantzaki"
+    ],
+    "death_year": 1957
+  },
+  "343": {
+    "name": "Khalil Gibran",
+    "queries": [
+      "Khalil Gibran",
+      "Kahlil Gibran"
+    ],
+    "death_year": 1931
+  },
+  "344": {
+    "name": "Confucius",
+    "queries": [
+      "Confucius"
+    ],
+    "death_year": -479
+  },
+  "345": {
+    "name": "Lao Tseu",
+    "queries": [
+      "Lao Tzu",
+      "Laozi"
+    ],
+    "death_year": -500
+  },
+  "346": {
+    "name": "Zhuangzi",
+    "queries": [
+      "Zhuangzi",
+      "Chuang Tzu"
+    ],
+    "death_year": -286
+  },
+  "347": {
+    "name": "Mencius",
+    "queries": [
+      "Mencius",
+      "Mengzi"
+    ],
+    "death_year": -289
+  },
+  "348": {
+    "name": "Xunzi",
+    "queries": [
+      "Xunzi",
+      "Hsun Tzu"
+    ],
+    "death_year": -235
+  },
+  "349": {
+    "name": "Sun Tzu",
+    "queries": [
+      "Sun Tzu"
+    ],
+    "death_year": -496
+  },
+  "350": {
+    "name": "Han Fei Zi",
+    "queries": [
+      "Han Fei",
+      "Han Feizi"
+    ],
+    "death_year": -233
+  },
+  "351": {
+    "name": "Bouddha",
+    "queries": [
+      "Buddha",
+      "Siddhartha Gautama"
+    ],
+    "death_year": -483
+  },
+  "352": {
+    "name": "Nāgārjuna",
+    "queries": [
+      "Nagarjuna"
+    ],
+    "death_year": 250
+  },
+  "353": {
+    "name": "Bodhidharma",
+    "queries": [
+      "Bodhidharma"
+    ],
+    "death_year": 532
+  },
+  "354": {
+    "name": "Dōgen",
+    "queries": [
+      "Dogen",
+      "Dōgen Zenji"
+    ],
+    "death_year": 1253
+  },
+  "355": {
+    "name": "D.T. Suzuki",
+    "queries": [
+      "D.T. Suzuki",
+      "Daisetsu Teitaro Suzuki"
+    ],
+    "death_year": 1966
+  },
+  "356": {
+    "name": "Thich Nhat Hanh",
+    "queries": [
+      "Thich Nhat Hanh"
+    ],
+    "death_year": 2022
+  },
+  "357": {
+    "name": "Shankara",
+    "queries": [
+      "Adi Shankara",
+      "Shankaracharya"
+    ],
+    "death_year": 820
+  },
+  "358": {
+    "name": "Patanjali",
+    "queries": [
+      "Patanjali"
+    ],
+    "death_year": -200
+  },
+  "359": {
+    "name": "Rûmî",
+    "queries": [
+      "Rumi",
+      "Jalal al-Din Rumi"
+    ],
+    "death_year": 1273
+  },
+  "360": {
+    "name": "Ibn Arabi",
+    "queries": [
+      "Ibn Arabi",
+      "Muhyiddin Ibn Arabi"
+    ],
+    "death_year": 1240
+  },
+  "361": {
+    "name": "Omar Khayyâm",
+    "queries": [
+      "Omar Khayyam"
+    ],
+    "death_year": 1131
+  },
+  "362": {
+    "name": "Rabindranath Tagore",
+    "queries": [
+      "Rabindranath Tagore"
+    ],
+    "death_year": 1941
+  },
+  "363": {
+    "name": "Mahatma Gandhi",
+    "queries": [
+      "Mahatma Gandhi",
+      "Mohandas Gandhi"
+    ],
+    "death_year": 1948
+  },
+  "364": {
+    "name": "Sri Aurobindo",
+    "queries": [
+      "Sri Aurobindo"
+    ],
+    "death_year": 1950
+  },
+  "365": {
+    "name": "Jiddu Krishnamurti",
+    "queries": [
+      "Jiddu Krishnamurti"
+    ],
+    "death_year": 1986
+  },
+  "366": {
+    "name": "Daisetz Teitaro Suzuki",
+    "queries": [
+      "D.T. Suzuki",
+      "Daisetsu Teitaro Suzuki"
+    ],
+    "death_year": 1966
+  },
+  "367": {
+    "name": "Kitarō Nishida",
+    "queries": [
+      "Kitaro Nishida"
+    ],
+    "death_year": 1945
+  },
+  "368": {
+    "name": "Keiji Nishitani",
+    "queries": [
+      "Keiji Nishitani"
+    ],
+    "death_year": 1990
+  },
+  "369": {
+    "name": "Frantz Fanon",
+    "queries": [
+      "Frantz Fanon"
+    ],
+    "death_year": 1961
+  },
+  "370": {
+    "name": "Aimé Césaire",
+    "queries": [
+      "Aime Cesaire",
+      "Aimé Césaire"
+    ],
+    "death_year": 2008
+  },
+  "371": {
+    "name": "Léopold Sédar Senghor",
+    "queries": [
+      "Leopold Sedar Senghor",
+      "Senghor"
+    ],
+    "death_year": 2001
+  },
+  "372": {
+    "name": "Edward Said",
+    "queries": [
+      "Edward Said"
+    ],
+    "death_year": 2003
+  },
+  "373": {
+    "name": "Gayatri Spivak",
+    "queries": [
+      "Gayatri Spivak",
+      "Gayatri Chakravorty Spivak"
+    ],
+    "death_year": 0
+  },
+  "374": {
+    "name": "Slavoj Žižek",
+    "queries": [
+      "Slavoj Zizek",
+      "Slavoj Žižek"
+    ],
+    "death_year": 0
+  },
+  "375": {
+    "name": "Byung-Chul Han",
+    "queries": [
+      "Byung-Chul Han"
+    ],
+    "death_year": 0
+  },
+  "376": {
+    "name": "Giorgio Agamben",
+    "queries": [
+      "Giorgio Agamben"
+    ],
+    "death_year": 0
+  },
+  "377": {
+    "name": "Gianni Vattimo",
+    "queries": [
+      "Gianni Vattimo"
+    ],
+    "death_year": 2023
+  },
+  "378": {
+    "name": "Roberto Esposito",
+    "queries": [
+      "Roberto Esposito"
+    ],
+    "death_year": 0
+  },
+  "379": {
+    "name": "Judith Butler",
+    "queries": [
+      "Judith Butler"
+    ],
+    "death_year": 0
+  },
+  "380": {
+    "name": "Donna Haraway",
+    "queries": [
+      "Donna Haraway"
+    ],
+    "death_year": 0
+  },
+  "381": {
+    "name": "Bruno Latour",
+    "queries": [
+      "Bruno Latour"
+    ],
+    "death_year": 2022
+  },
+  "382": {
+    "name": "Isabelle Stengers",
+    "queries": [
+      "Isabelle Stengers"
+    ],
+    "death_year": 0
+  },
+  "383": {
+    "name": "Peter Sloterdijk",
+    "queries": [
+      "Peter Sloterdijk"
+    ],
+    "death_year": 0
+  },
+  "384": {
+    "name": "Richard Rorty",
+    "queries": [
+      "Richard Rorty"
+    ],
+    "death_year": 2007
+  },
+  "385": {
+    "name": "Cornel West",
+    "queries": [
+      "Cornel West"
+    ],
+    "death_year": 0
+  },
+  "386": {
+    "name": "Noam Chomsky",
+    "queries": [
+      "Noam Chomsky"
+    ],
+    "death_year": 0
+  },
+  "387": {
+    "name": "Michel Henry",
+    "queries": [
+      "Michel Henry"
+    ],
+    "death_year": 2002
+  },
+  "388": {
+    "name": "Jean-Luc Marion",
+    "queries": [
+      "Jean-Luc Marion"
+    ],
+    "death_year": 0
+  },
+  "389": {
+    "name": "Quentin Meillassoux",
+    "queries": [
+      "Quentin Meillassoux"
+    ],
+    "death_year": 0
+  },
+  "390": {
+    "name": "Graham Harman",
+    "queries": [
+      "Graham Harman"
+    ],
+    "death_year": 0
+  },
+  "391": {
+    "name": "Catherine Malabou",
+    "queries": [
+      "Catherine Malabou"
+    ],
+    "death_year": 0
+  },
+  "392": {
+    "name": "Markus Gabriel",
+    "queries": [
+      "Markus Gabriel"
+    ],
+    "death_year": 0
+  },
+  "393": {
+    "name": "Maurizio Ferraris",
+    "queries": [
+      "Maurizio Ferraris"
+    ],
+    "death_year": 0
+  },
+  "394": {
+    "name": "Hartmut Rosa",
+    "queries": [
+      "Hartmut Rosa"
+    ],
+    "death_year": 0
+  },
+  "395": {
+    "name": "Olympe de Gouges",
+    "queries": [
+      "Olympe de Gouges"
+    ],
+    "death_year": 1793
+  },
+  "396": {
+    "name": "Flora Tristan",
+    "queries": [
+      "Flora Tristan"
+    ],
+    "death_year": 1844
+  },
+  "397": {
+    "name": "Virginia Woolf",
+    "queries": [
+      "Virginia Woolf"
+    ],
+    "death_year": 1941
+  },
+  "398": {
+    "name": "Betty Friedan",
+    "queries": [
+      "Betty Friedan"
+    ],
+    "death_year": 2006
+  },
+  "399": {
+    "name": "bell hooks",
+    "queries": [
+      "bell hooks"
+    ],
+    "death_year": 2021
+  },
+  "400": {
+    "name": "Monique Wittig",
+    "queries": [
+      "Monique Wittig"
+    ],
+    "death_year": 2003
+  },
+  "401": {
+    "name": "Christine Delphy",
+    "queries": [
+      "Christine Delphy"
+    ],
+    "death_year": 0
+  },
+  "402": {
+    "name": "Élisabeth Badinter",
+    "queries": [
+      "Elisabeth Badinter",
+      "Élisabeth Badinter"
+    ],
+    "death_year": 0
+  },
+  "403": {
+    "name": "Jacques Ellul",
+    "queries": [
+      "Jacques Ellul"
+    ],
+    "death_year": 1994
+  },
+  "404": {
+    "name": "Ivan Illich",
+    "queries": [
+      "Ivan Illich"
+    ],
+    "death_year": 2002
+  },
+  "405": {
+    "name": "Hans Jonas",
+    "queries": [
+      "Hans Jonas"
+    ],
+    "death_year": 1993
+  },
+  "406": {
+    "name": "Arne Næss",
+    "queries": [
+      "Arne Naess",
+      "Arne Næss"
+    ],
+    "death_year": 2009
+  },
+  "407": {
+    "name": "Murray Bookchin",
+    "queries": [
+      "Murray Bookchin"
+    ],
+    "death_year": 2006
+  },
+  "408": {
+    "name": "Aldo Leopold",
+    "queries": [
+      "Aldo Leopold"
+    ],
+    "death_year": 1948
+  },
+  "409": {
+    "name": "Rachel Carson",
+    "queries": [
+      "Rachel Carson"
+    ],
+    "death_year": 1964
+  },
+  "410": {
+    "name": "Dominique Bourg",
+    "queries": [
+      "Dominique Bourg"
+    ],
+    "death_year": 0
+  },
+  "411": {
+    "name": "Baptiste Morizot",
+    "queries": [
+      "Baptiste Morizot"
+    ],
+    "death_year": 0
+  },
+  "412": {
+    "name": "Timothy Morton",
+    "queries": [
+      "Timothy Morton"
+    ],
+    "death_year": 0
+  },
+  "413": {
+    "name": "Gilbert Simondon",
+    "queries": [
+      "Gilbert Simondon"
+    ],
+    "death_year": 1989
+  },
+  "414": {
+    "name": "Hans Kelsen",
+    "queries": [
+      "Hans Kelsen"
+    ],
+    "death_year": 1973
+  },
+  "415": {
+    "name": "Herbert Hart",
+    "queries": [
+      "H.L.A. Hart",
+      "Herbert Hart"
+    ],
+    "death_year": 1992
+  },
+  "416": {
+    "name": "Ronald Dworkin",
+    "queries": [
+      "Ronald Dworkin"
+    ],
+    "death_year": 2013
+  },
+  "417": {
+    "name": "Friedrich Hayek",
+    "queries": [
+      "Friedrich Hayek"
+    ],
+    "death_year": 1992
+  },
+  "418": {
+    "name": "Karl Polanyi",
+    "queries": [
+      "Karl Polanyi"
+    ],
+    "death_year": 1964
+  },
+  "419": {
+    "name": "John Kenneth Galbraith",
+    "queries": [
+      "John Kenneth Galbraith"
+    ],
+    "death_year": 2006
+  },
+  "420": {
+    "name": "Albert Hirschman",
+    "queries": [
+      "Albert Hirschman",
+      "Albert O. Hirschman"
+    ],
+    "death_year": 2012
+  },
+  "421": {
+    "name": "Alexander Baumgarten",
+    "queries": [
+      "Alexander Baumgarten"
+    ],
+    "death_year": 1762
+  },
+  "422": {
+    "name": "Friedrich Schiller",
+    "queries": [
+      "Friedrich Schiller"
+    ],
+    "death_year": 1805
+  },
+  "423": {
+    "name": "Hegel (esthétique)",
+    "queries": [
+      "Hegel aesthetics",
+      "Hegel Ästhetik"
+    ],
+    "death_year": 1831,
+    "search_mode": "title"
+  },
+  "424": {
+    "name": "Benedetto Croce",
+    "queries": [
+      "Benedetto Croce"
+    ],
+    "death_year": 1952
+  },
+  "425": {
+    "name": "R.G. Collingwood",
+    "queries": [
+      "R.G. Collingwood",
+      "Robin George Collingwood"
+    ],
+    "death_year": 1943
+  },
+  "426": {
+    "name": "Mikel Dufrenne",
+    "queries": [
+      "Mikel Dufrenne"
+    ],
+    "death_year": 1995
+  },
+  "427": {
+    "name": "Arthur Danto",
+    "queries": [
+      "Arthur Danto"
+    ],
+    "death_year": 2013
+  },
+  "428": {
+    "name": "Nelson Goodman (esthétique)",
+    "queries": [
+      "Nelson Goodman Languages of Art"
+    ],
+    "death_year": 1998,
+    "search_mode": "title"
+  },
+  "429": {
+    "name": "Origène",
+    "queries": [
+      "Origen",
+      "Origène"
+    ],
+    "death_year": 253
+  },
+  "430": {
+    "name": "Clément d'Alexandrie",
+    "queries": [
+      "Clement of Alexandria",
+      "Clément d'Alexandrie"
+    ],
+    "death_year": 215
+  },
+  "431": {
+    "name": "Grégoire de Nysse",
+    "queries": [
+      "Gregory of Nyssa",
+      "Grégoire de Nysse"
+    ],
+    "death_year": 395
+  },
+  "432": {
+    "name": "Jean Chrysostome",
+    "queries": [
+      "John Chrysostom",
+      "Jean Chrysostome"
+    ],
+    "death_year": 407
+  },
+  "433": {
+    "name": "Thomas a Kempis",
+    "queries": [
+      "Thomas a Kempis"
+    ],
+    "death_year": 1471
+  },
+  "434": {
+    "name": "Jean de la Croix",
+    "queries": [
+      "John of the Cross",
+      "Jean de la Croix"
+    ],
+    "death_year": 1591
+  },
+  "435": {
+    "name": "Thérèse d'Ávila",
+    "queries": [
+      "Teresa of Avila",
+      "Thérèse d'Ávila"
+    ],
+    "death_year": 1582
+  },
+  "436": {
+    "name": "Jakob Böhme",
+    "queries": [
+      "Jakob Bohme",
+      "Jakob Böhme",
+      "Jacob Boehme"
+    ],
+    "death_year": 1624
+  },
+  "437": {
+    "name": "Blaise Pascal (apologétique)",
+    "queries": [
+      "Blaise Pascal Pensees"
+    ],
+    "death_year": 1662,
+    "search_mode": "title"
+  },
+  "438": {
+    "name": "Dietrich Bonhoeffer",
+    "queries": [
+      "Dietrich Bonhoeffer"
+    ],
+    "death_year": 1945
+  },
+  "439": {
+    "name": "Paul Tillich",
+    "queries": [
+      "Paul Tillich"
+    ],
+    "death_year": 1965
+  },
+  "440": {
+    "name": "Martin Buber",
+    "queries": [
+      "Martin Buber"
+    ],
+    "death_year": 1965
+  },
+  "441": {
+    "name": "Abraham Joshua Heschel",
+    "queries": [
+      "Abraham Joshua Heschel"
+    ],
+    "death_year": 1972
+  },
+  "442": {
+    "name": "Gershom Scholem",
+    "queries": [
+      "Gershom Scholem"
+    ],
+    "death_year": 1982
+  },
+  "443": {
+    "name": "Emmanuel Mounier",
+    "queries": [
+      "Emmanuel Mounier"
+    ],
+    "death_year": 1950
+  },
+  "444": {
+    "name": "René Guénon",
+    "queries": [
+      "Rene Guenon",
+      "René Guénon"
+    ],
+    "death_year": 1951
+  },
+  "445": {
+    "name": "Frithjof Schuon",
+    "queries": [
+      "Frithjof Schuon"
+    ],
+    "death_year": 1998
+  },
+  "446": {
+    "name": "Mircea Eliade",
+    "queries": [
+      "Mircea Eliade"
+    ],
+    "death_year": 1986
+  },
+  "447": {
+    "name": "Carl Gustav Jung",
+    "queries": [
+      "Carl Jung",
+      "Carl Gustav Jung"
+    ],
+    "death_year": 1961
+  },
+  "448": {
+    "name": "Alfred Adler",
+    "queries": [
+      "Alfred Adler"
+    ],
+    "death_year": 1937
+  },
+  "449": {
+    "name": "Wilhelm Reich",
+    "queries": [
+      "Wilhelm Reich"
+    ],
+    "death_year": 1957
+  },
+  "450": {
+    "name": "Viktor Frankl",
+    "queries": [
+      "Viktor Frankl"
+    ],
+    "death_year": 1997
+  },
+  "451": {
+    "name": "Rollo May",
+    "queries": [
+      "Rollo May"
+    ],
+    "death_year": 1994
+  },
+  "452": {
+    "name": "Abraham Maslow",
+    "queries": [
+      "Abraham Maslow"
+    ],
+    "death_year": 1970
+  },
+  "453": {
+    "name": "Carl Rogers",
+    "queries": [
+      "Carl Rogers"
+    ],
+    "death_year": 1987
+  },
+  "454": {
+    "name": "Françoise Dolto",
+    "queries": [
+      "Francoise Dolto",
+      "Françoise Dolto"
+    ],
+    "death_year": 1988
+  },
+  "455": {
+    "name": "Donald Winnicott",
+    "queries": [
+      "Donald Winnicott"
+    ],
+    "death_year": 1971
+  },
+  "456": {
+    "name": "Henri Poincaré",
+    "queries": [
+      "Henri Poincare",
+      "Henri Poincaré"
+    ],
+    "death_year": 1912
+  },
+  "457": {
+    "name": "Pierre Duhem",
+    "queries": [
+      "Pierre Duhem"
+    ],
+    "death_year": 1916
+  },
+  "458": {
+    "name": "Ernst Mach",
+    "queries": [
+      "Ernst Mach"
+    ],
+    "death_year": 1916
+  },
+  "459": {
+    "name": "Gaston Bachelard (épistém.)",
+    "queries": [
+      "Gaston Bachelard epistemology"
+    ],
+    "death_year": 1962,
+    "search_mode": "title"
+  },
+  "460": {
+    "name": "Michael Polanyi",
+    "queries": [
+      "Michael Polanyi"
+    ],
+    "death_year": 1976
+  },
+  "461": {
+    "name": "Bas van Fraassen",
+    "queries": [
+      "Bas van Fraassen"
+    ],
+    "death_year": 0
+  },
+  "462": {
+    "name": "Ian Hacking",
+    "queries": [
+      "Ian Hacking"
+    ],
+    "death_year": 2023
+  },
+  "463": {
+    "name": "Nancy Cartwright",
+    "queries": [
+      "Nancy Cartwright"
+    ],
+    "death_year": 0
+  },
+  "464": {
+    "name": "Baltasar Gracián",
+    "queries": [
+      "Baltasar Gracian",
+      "Baltasar Gracián"
+    ],
+    "death_year": 1658
+  },
+  "465": {
+    "name": "Blaise Pascal (Pensées)",
+    "queries": [
+      "Blaise Pascal Pensees"
+    ],
+    "death_year": 1662,
+    "search_mode": "title"
+  },
+  "466": {
+    "name": "La Rochefoucauld (moraliste)",
+    "queries": [
+      "La Rochefoucauld maximes"
+    ],
+    "death_year": 1680,
+    "search_mode": "title"
+  },
+  "467": {
+    "name": "Jean de La Fontaine",
+    "queries": [
+      "Jean de La Fontaine",
+      "La Fontaine"
+    ],
+    "death_year": 1695
+  },
+  "468": {
+    "name": "Joseph Joubert",
+    "queries": [
+      "Joseph Joubert"
+    ],
+    "death_year": 1824
+  },
+  "469": {
+    "name": "Georg Christoph Lichtenberg",
+    "queries": [
+      "Georg Christoph Lichtenberg"
+    ],
+    "death_year": 1799
+  },
+  "470": {
+    "name": "Elias Canetti",
+    "queries": [
+      "Elias Canetti"
+    ],
+    "death_year": 1994
+  },
+  "471": {
+    "name": "Nicolás Gómez Dávila",
+    "queries": [
+      "Nicolas Gomez Davila",
+      "Nicolás Gómez Dávila"
+    ],
+    "death_year": 1994
+  },
+  "472": {
+    "name": "Nassim Nicholas Taleb",
+    "queries": [
+      "Nassim Nicholas Taleb",
+      "Nassim Taleb"
+    ],
+    "death_year": 0
+  },
+  "473": {
+    "name": "Zygmunt Bauman",
+    "queries": [
+      "Zygmunt Bauman"
+    ],
+    "death_year": 2017
+  },
+  "474": {
+    "name": "Ulrich Beck",
+    "queries": [
+      "Ulrich Beck"
+    ],
+    "death_year": 2015
+  },
+  "475": {
+    "name": "Yuval Noah Harari",
+    "queries": [
+      "Yuval Noah Harari"
+    ],
+    "death_year": 0
+  },
+  "476": {
+    "name": "Nassim Nicholas Taleb (2)",
+    "queries": [
+      "Nassim Taleb Antifragile"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "477": {
+    "name": "Nick Bostrom",
+    "queries": [
+      "Nick Bostrom"
+    ],
+    "death_year": 0
+  },
+  "478": {
+    "name": "Toby Ord",
+    "queries": [
+      "Toby Ord"
+    ],
+    "death_year": 0
+  },
+  "479": {
+    "name": "Will MacAskill",
+    "queries": [
+      "Will MacAskill"
+    ],
+    "death_year": 0
+  },
+  "480": {
+    "name": "Achille Mbembe",
+    "queries": [
+      "Achille Mbembe"
+    ],
+    "death_year": 0
+  },
+  "481": {
+    "name": "Souleymane Bachir Diagne",
+    "queries": [
+      "Souleymane Bachir Diagne"
+    ],
+    "death_year": 0
+  },
+  "482": {
+    "name": "Paulin Hountondji",
+    "queries": [
+      "Paulin Hountondji"
+    ],
+    "death_year": 2024
+  },
+  "483": {
+    "name": "Kwame Anthony Appiah",
+    "queries": [
+      "Kwame Anthony Appiah"
+    ],
+    "death_year": 0
+  },
+  "484": {
+    "name": "Enrique Dussel",
+    "queries": [
+      "Enrique Dussel"
+    ],
+    "death_year": 0
+  },
+  "485": {
+    "name": "Walter Mignolo",
+    "queries": [
+      "Walter Mignolo"
+    ],
+    "death_year": 0
+  },
+  "486": {
+    "name": "François Jullien",
+    "queries": [
+      "Francois Jullien",
+      "François Jullien"
+    ],
+    "death_year": 0
+  },
+  "487": {
+    "name": "Emanuele Coccia",
+    "queries": [
+      "Emanuele Coccia"
+    ],
+    "death_year": 0
+  },
+  "488": {
+    "name": "Vinciane Despret",
+    "queries": [
+      "Vinciane Despret"
+    ],
+    "death_year": 0
+  },
+  "489": {
+    "name": "Philippe Descola",
+    "queries": [
+      "Philippe Descola"
+    ],
+    "death_year": 0
+  },
+  "490": {
+    "name": "Gilles Lipovetsky",
+    "queries": [
+      "Gilles Lipovetsky"
+    ],
+    "death_year": 0
+  },
+  "491": {
+    "name": "Alain Finkielkraut",
+    "queries": [
+      "Alain Finkielkraut"
+    ],
+    "death_year": 0
+  },
+  "492": {
+    "name": "Régis Debray",
+    "queries": [
+      "Regis Debray",
+      "Régis Debray"
+    ],
+    "death_year": 0
+  },
+  "493": {
+    "name": "Peter Handke",
+    "queries": [
+      "Peter Handke"
+    ],
+    "death_year": 0
+  },
+  "494": {
+    "name": "Roberto Calasso",
+    "queries": [
+      "Roberto Calasso"
+    ],
+    "death_year": 2021
+  },
+  "495": {
+    "name": "Yuk Hui",
+    "queries": [
+      "Yuk Hui"
+    ],
+    "death_year": 0
+  },
+  "496": {
+    "name": "Tristan Garcia",
+    "queries": [
+      "Tristan Garcia"
+    ],
+    "death_year": 0
+  },
+  "497": {
+    "name": "Mehdi Belhaj Kacem",
+    "queries": [
+      "Mehdi Belhaj Kacem"
+    ],
+    "death_year": 0
+  },
+  "498": {
+    "name": "Fabienne Brugère",
+    "queries": [
+      "Fabienne Brugere",
+      "Fabienne Brugère"
+    ],
+    "death_year": 0
+  },
+  "499": {
+    "name": "Sandra Laugier",
+    "queries": [
+      "Sandra Laugier"
+    ],
+    "death_year": 0
+  },
+  "500": {
+    "name": "Frédéric Lordon",
+    "queries": [
+      "Frederic Lordon",
+      "Frédéric Lordon"
+    ],
+    "death_year": 0
+  },
+  "501": {
+    "name": "Joseph de Maistre (2)",
+    "queries": [
+      "Joseph de Maistre"
+    ],
+    "death_year": 1821,
+    "search_mode": "title"
+  },
+  "502": {
+    "name": "Louis de Bonald",
+    "queries": [
+      "Louis de Bonald"
+    ],
+    "death_year": 1840
+  },
+  "503": {
+    "name": "Juan Donoso Cortés",
+    "queries": [
+      "Juan Donoso Cortes",
+      "Juan Donoso Cortés"
+    ],
+    "death_year": 1853
+  },
+  "504": {
+    "name": "Charles Maurras",
+    "queries": [
+      "Charles Maurras"
+    ],
+    "death_year": 1952
+  },
+  "505": {
+    "name": "Julius Evola",
+    "queries": [
+      "Julius Evola"
+    ],
+    "death_year": 1974
+  },
+  "506": {
+    "name": "Oswald Spengler",
+    "queries": [
+      "Oswald Spengler"
+    ],
+    "death_year": 1936
+  },
+  "507": {
+    "name": "Ernst Jünger",
+    "queries": [
+      "Ernst Junger",
+      "Ernst Jünger"
+    ],
+    "death_year": 1998
+  },
+  "508": {
+    "name": "Arthur Moeller van den Bruck",
+    "queries": [
+      "Arthur Moeller van den Bruck"
+    ],
+    "death_year": 1925
+  },
+  "509": {
+    "name": "Ludwig Klages",
+    "queries": [
+      "Ludwig Klages"
+    ],
+    "death_year": 1956
+  },
+  "510": {
+    "name": "Othmar Spann",
+    "queries": [
+      "Othmar Spann"
+    ],
+    "death_year": 1950
+  },
+  "511": {
+    "name": "Léon Bloy",
+    "queries": [
+      "Leon Bloy",
+      "Léon Bloy"
+    ],
+    "death_year": 1917
+  },
+  "512": {
+    "name": "Georges Bernanos",
+    "queries": [
+      "Georges Bernanos"
+    ],
+    "death_year": 1948
+  },
+  "513": {
+    "name": "Gustave Le Bon",
+    "queries": [
+      "Gustave Le Bon"
+    ],
+    "death_year": 1931
+  },
+  "514": {
+    "name": "Vilfredo Pareto",
+    "queries": [
+      "Vilfredo Pareto"
+    ],
+    "death_year": 1923
+  },
+  "515": {
+    "name": "Gaetano Mosca",
+    "queries": [
+      "Gaetano Mosca"
+    ],
+    "death_year": 1941
+  },
+  "516": {
+    "name": "Robert Michels",
+    "queries": [
+      "Robert Michels"
+    ],
+    "death_year": 1936
+  },
+  "517": {
+    "name": "Alain de Benoist",
+    "queries": [
+      "Alain de Benoist"
+    ],
+    "death_year": 0
+  },
+  "518": {
+    "name": "Guillaume Faye",
+    "queries": [
+      "Guillaume Faye"
+    ],
+    "death_year": 2019
+  },
+  "519": {
+    "name": "Dominique Venner",
+    "queries": [
+      "Dominique Venner"
+    ],
+    "death_year": 2013
+  },
+  "520": {
+    "name": "Pierre Vial",
+    "queries": [
+      "Pierre Vial"
+    ],
+    "death_year": 0
+  },
+  "521": {
+    "name": "Robert Steuckers",
+    "queries": [
+      "Robert Steuckers"
+    ],
+    "death_year": 0
+  },
+  "522": {
+    "name": "Tomislav Sunić",
+    "queries": [
+      "Tomislav Sunic",
+      "Tomislav Sunić"
+    ],
+    "death_year": 0
+  },
+  "523": {
+    "name": "Charles Champetier",
+    "queries": [
+      "Charles Champetier"
+    ],
+    "death_year": 0
+  },
+  "524": {
+    "name": "Julien Freund",
+    "queries": [
+      "Julien Freund"
+    ],
+    "death_year": 1993
+  },
+  "525": {
+    "name": "Curtis Yarvin",
+    "queries": [
+      "Curtis Yarvin",
+      "Mencius Moldbug"
+    ],
+    "death_year": 0
+  },
+  "526": {
+    "name": "Nick Land",
+    "queries": [
+      "Nick Land"
+    ],
+    "death_year": 0
+  },
+  "527": {
+    "name": "Hans-Hermann Hoppe",
+    "queries": [
+      "Hans-Hermann Hoppe"
+    ],
+    "death_year": 0
+  },
+  "528": {
+    "name": "Michael Anton",
+    "queries": [
+      "Michael Anton"
+    ],
+    "death_year": 0
+  },
+  "529": {
+    "name": "Bronze Age Pervert",
+    "queries": [
+      "Bronze Age Pervert",
+      "Bronze Age Mindset"
+    ],
+    "death_year": 0
+  },
+  "530": {
+    "name": "Peter Thiel",
+    "queries": [
+      "Peter Thiel"
+    ],
+    "death_year": 0
+  },
+  "531": {
+    "name": "Roger Scruton",
+    "queries": [
+      "Roger Scruton"
+    ],
+    "death_year": 2020
+  },
+  "532": {
+    "name": "Patrick Deneen",
+    "queries": [
+      "Patrick Deneen"
+    ],
+    "death_year": 0
+  },
+  "533": {
+    "name": "Rod Dreher",
+    "queries": [
+      "Rod Dreher"
+    ],
+    "death_year": 0
+  },
+  "534": {
+    "name": "Adrian Vermeule",
+    "queries": [
+      "Adrian Vermeule"
+    ],
+    "death_year": 0
+  },
+  "535": {
+    "name": "Sohrab Ahmari",
+    "queries": [
+      "Sohrab Ahmari"
+    ],
+    "death_year": 0
+  },
+  "536": {
+    "name": "Yoram Hazony",
+    "queries": [
+      "Yoram Hazony"
+    ],
+    "death_year": 0
+  },
+  "537": {
+    "name": "Christopher Lasch",
+    "queries": [
+      "Christopher Lasch"
+    ],
+    "death_year": 1994
+  },
+  "538": {
+    "name": "Alasdair MacIntyre (2)",
+    "queries": [
+      "Alasdair MacIntyre After Virtue"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "539": {
+    "name": "René Guénon (2)",
+    "queries": [
+      "Rene Guenon tradition"
+    ],
+    "death_year": 1951,
+    "search_mode": "title"
+  },
+  "540": {
+    "name": "Aleksandr Soljenitsyne",
+    "queries": [
+      "Aleksandr Solzhenitsyn",
+      "Soljenitsyne"
+    ],
+    "death_year": 2008
+  },
+  "541": {
+    "name": "Aleksandr Douguine",
+    "queries": [
+      "Aleksandr Dugin",
+      "Alexander Dugin"
+    ],
+    "death_year": 0
+  },
+  "542": {
+    "name": "Constantin Léontiev",
+    "queries": [
+      "Konstantin Leontiev",
+      "Constantin Léontiev"
+    ],
+    "death_year": 1891
+  },
+  "543": {
+    "name": "Ivan Iline",
+    "queries": [
+      "Ivan Ilyin",
+      "Ivan Iline"
+    ],
+    "death_year": 1954
+  },
+  "544": {
+    "name": "Nikolaï Berdiaev",
+    "queries": [
+      "Nikolai Berdyaev",
+      "Nicolas Berdiaev"
+    ],
+    "death_year": 1948
+  },
+  "545": {
+    "name": "Lev Goumilev",
+    "queries": [
+      "Lev Gumilev",
+      "Lev Goumilev"
+    ],
+    "death_year": 1992
+  },
+  "546": {
+    "name": "Renaud Camus",
+    "queries": [
+      "Renaud Camus"
+    ],
+    "death_year": 0
+  },
+  "547": {
+    "name": "Éric Zemmour",
+    "queries": [
+      "Eric Zemmour",
+      "Éric Zemmour"
+    ],
+    "death_year": 0
+  },
+  "548": {
+    "name": "Michel Houellebecq",
+    "queries": [
+      "Michel Houellebecq"
+    ],
+    "death_year": 0
+  },
+  "549": {
+    "name": "Richard Millet",
+    "queries": [
+      "Richard Millet"
+    ],
+    "death_year": 0
+  },
+  "550": {
+    "name": "Philippe Muray",
+    "queries": [
+      "Philippe Muray"
+    ],
+    "death_year": 2006
+  },
+  "551": {
+    "name": "Jean-Claude Michéa",
+    "queries": [
+      "Jean-Claude Michea",
+      "Jean-Claude Michéa"
+    ],
+    "death_year": 0
+  },
+  "552": {
+    "name": "Marcel Gauchet (2)",
+    "queries": [
+      "Marcel Gauchet desenchantement"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "553": {
+    "name": "Pierre Manent",
+    "queries": [
+      "Pierre Manent"
+    ],
+    "death_year": 0
+  },
+  "554": {
+    "name": "Chantal Delsol",
+    "queries": [
+      "Chantal Delsol"
+    ],
+    "death_year": 0
+  },
+  "555": {
+    "name": "Alain Finkielkraut (2)",
+    "queries": [
+      "Alain Finkielkraut defaite pensee"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "556": {
+    "name": "Pascal Bruckner",
+    "queries": [
+      "Pascal Bruckner"
+    ],
+    "death_year": 0
+  },
+  "557": {
+    "name": "Mathieu Bock-Côté",
+    "queries": [
+      "Mathieu Bock-Cote",
+      "Mathieu Bock-Côté"
+    ],
+    "death_year": 0
+  },
+  "558": {
+    "name": "François-Xavier Bellamy",
+    "queries": [
+      "Francois-Xavier Bellamy",
+      "François-Xavier Bellamy"
+    ],
+    "death_year": 0
+  },
+  "559": {
+    "name": "Eugénie Bastié",
+    "queries": [
+      "Eugenie Bastie",
+      "Eugénie Bastié"
+    ],
+    "death_year": 0
+  },
+  "560": {
+    "name": "Jordan Peterson",
+    "queries": [
+      "Jordan Peterson"
+    ],
+    "death_year": 0
+  },
+  "561": {
+    "name": "Sam Harris",
+    "queries": [
+      "Sam Harris"
+    ],
+    "death_year": 0
+  },
+  "562": {
+    "name": "Douglas Murray",
+    "queries": [
+      "Douglas Murray"
+    ],
+    "death_year": 0
+  },
+  "563": {
+    "name": "Jonathan Haidt",
+    "queries": [
+      "Jonathan Haidt"
+    ],
+    "death_year": 0
+  },
+  "564": {
+    "name": "Steven Pinker",
+    "queries": [
+      "Steven Pinker"
+    ],
+    "death_year": 0
+  },
+  "565": {
+    "name": "Bret Weinstein",
+    "queries": [
+      "Bret Weinstein"
+    ],
+    "death_year": 0
+  },
+  "566": {
+    "name": "John Gray",
+    "queries": [
+      "John Gray"
+    ],
+    "death_year": 0
+  },
+  "567": {
+    "name": "Nassim Nicholas Taleb (3)",
+    "queries": [
+      "Nassim Taleb Skin in the Game"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "568": {
+    "name": "Nick Land (acc.)",
+    "queries": [
+      "Nick Land accelerationism CCRU"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "569": {
+    "name": "Robin Hanson",
+    "queries": [
+      "Robin Hanson"
+    ],
+    "death_year": 0
+  },
+  "570": {
+    "name": "Eliezer Yudkowsky",
+    "queries": [
+      "Eliezer Yudkowsky"
+    ],
+    "death_year": 0
+  },
+  "571": {
+    "name": "Ray Kurzweil",
+    "queries": [
+      "Ray Kurzweil"
+    ],
+    "death_year": 0
+  },
+  "572": {
+    "name": "Max More",
+    "queries": [
+      "Max More"
+    ],
+    "death_year": 0
+  },
+  "573": {
+    "name": "Nick Bostrom (2)",
+    "queries": [
+      "Nick Bostrom Superintelligence"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "574": {
+    "name": "Nikolaï Fiodorov",
+    "queries": [
+      "Nikolai Fedorov",
+      "Nikolai Fyodorov"
+    ],
+    "death_year": 1903
+  },
+  "575": {
+    "name": "Constantin Tsiolkovski",
+    "queries": [
+      "Konstantin Tsiolkovsky",
+      "Tsiolkovski"
+    ],
+    "death_year": 1935
+  },
+  "576": {
+    "name": "Vladimir Vernadski",
+    "queries": [
+      "Vladimir Vernadsky",
+      "Vernadski"
+    ],
+    "death_year": 1945
+  },
+  "577": {
+    "name": "Alexandre Bogdanov",
+    "queries": [
+      "Alexander Bogdanov",
+      "Alexandre Bogdanov"
+    ],
+    "death_year": 1928
+  },
+  "578": {
+    "name": "Toby Ord (2)",
+    "queries": [
+      "Toby Ord Precipice"
+    ],
+    "death_year": 0,
+    "search_mode": "title"
+  },
+  "579": {
+    "name": "Derek Parfit (2)",
+    "queries": [
+      "Derek Parfit Reasons Persons"
+    ],
+    "death_year": 2017,
+    "search_mode": "title"
+  },
+  "580": {
+    "name": "Jean-Pierre Dupuy",
+    "queries": [
+      "Jean-Pierre Dupuy"
+    ],
+    "death_year": 0
+  },
+  "581": {
+    "name": "Günther Anders (2)",
+    "queries": [
+      "Gunther Anders obsolescence homme"
+    ],
+    "death_year": 1992,
+    "search_mode": "title"
+  },
+  "582": {
+    "name": "Paul Virilio",
+    "queries": [
+      "Paul Virilio"
+    ],
+    "death_year": 2018
+  },
+  "583": {
+    "name": "Martin Rees",
+    "queries": [
+      "Martin Rees"
+    ],
+    "death_year": 0
+  },
+  "584": {
+    "name": "Garrett Hardin",
+    "queries": [
+      "Garrett Hardin"
+    ],
+    "death_year": 2003
+  },
+  "585": {
+    "name": "Richard Dawkins",
+    "queries": [
+      "Richard Dawkins"
+    ],
+    "death_year": 0
+  },
+  "586": {
+    "name": "Edward O. Wilson",
+    "queries": [
+      "Edward O. Wilson",
+      "E.O. Wilson"
+    ],
+    "death_year": 2021
+  },
+  "587": {
+    "name": "Konrad Lorenz",
+    "queries": [
+      "Konrad Lorenz"
+    ],
+    "death_year": 1989
+  },
+  "588": {
+    "name": "Robert Ardrey",
+    "queries": [
+      "Robert Ardrey"
+    ],
+    "death_year": 1980
+  },
+  "589": {
+    "name": "Desmond Morris",
+    "queries": [
+      "Desmond Morris"
+    ],
+    "death_year": 0
+  },
+  "590": {
+    "name": "Thomas Malthus",
+    "queries": [
+      "Thomas Malthus"
+    ],
+    "death_year": 1834
+  },
+  "591": {
+    "name": "Francis Galton",
+    "queries": [
+      "Francis Galton"
+    ],
+    "death_year": 1911
+  },
+  "592": {
+    "name": "Julian Huxley",
+    "queries": [
+      "Julian Huxley"
+    ],
+    "death_year": 1975
+  },
+  "593": {
+    "name": "Carl von Clausewitz",
+    "queries": [
+      "Carl von Clausewitz",
+      "Clausewitz"
+    ],
+    "death_year": 1831
+  },
+  "594": {
+    "name": "Thomas Schelling",
+    "queries": [
+      "Thomas Schelling"
+    ],
+    "death_year": 2016
+  },
+  "595": {
+    "name": "Herman Kahn",
+    "queries": [
+      "Herman Kahn"
+    ],
+    "death_year": 1983
+  },
+  "596": {
+    "name": "John von Neumann",
+    "queries": [
+      "John von Neumann"
+    ],
+    "death_year": 1957
+  },
+  "597": {
+    "name": "Antoine-Henri Jomini",
+    "queries": [
+      "Antoine-Henri Jomini",
+      "Jomini"
+    ],
+    "death_year": 1869
+  },
+  "598": {
+    "name": "Thucydide",
+    "queries": [
+      "Thucydides",
+      "Thucydide"
+    ],
+    "death_year": -400
+  },
+  "599": {
+    "name": "Georges Sorel",
+    "queries": [
+      "Georges Sorel"
+    ],
+    "death_year": 1922
+  },
+  "600": {
+    "name": "Calliclès",
+    "queries": [
+      "Callicles",
+      "Calliclès"
+    ],
+    "death_year": -400
+  },
+  "601": {
+    "name": "Thrasymaque",
+    "queries": [
+      "Thrasymachus",
+      "Thrasymaque"
+    ],
+    "death_year": -400
+  },
+  "602": {
+    "name": "Thomas Carlyle",
+    "queries": [
+      "Thomas Carlyle"
+    ],
+    "death_year": 1881
+  },
+  "603": {
+    "name": "Ragnar Redbeard",
+    "queries": [
+      "Ragnar Redbeard",
+      "Might is Right"
+    ],
+    "death_year": 1929
+  },
+  "604": {
+    "name": "Jack London",
+    "queries": [
+      "Jack London"
+    ],
+    "death_year": 1916
+  },
+  "605": {
+    "name": "Filippo Marinetti",
+    "queries": [
+      "Filippo Marinetti",
+      "F.T. Marinetti"
+    ],
+    "death_year": 1944
+  },
+  "606": {
+    "name": "Pierre Drieu la Rochelle",
+    "queries": [
+      "Pierre Drieu la Rochelle",
+      "Drieu la Rochelle"
+    ],
+    "death_year": 1945
+  },
+  "607": {
+    "name": "Yukio Mishima",
+    "queries": [
+      "Yukio Mishima"
+    ],
+    "death_year": 1970
+  },
+  "608": {
+    "name": "Arnold Toynbee",
+    "queries": [
+      "Arnold Toynbee"
+    ],
+    "death_year": 1975
+  },
+  "609": {
+    "name": "Fernand Braudel",
+    "queries": [
+      "Fernand Braudel"
+    ],
+    "death_year": 1985
+  },
+  "610": {
+    "name": "Peter Turchin",
+    "queries": [
+      "Peter Turchin"
+    ],
+    "death_year": 0
+  },
+  "611": {
+    "name": "Jared Diamond",
+    "queries": [
+      "Jared Diamond"
+    ],
+    "death_year": 0
+  },
+  "612": {
+    "name": "Joseph Tainter",
+    "queries": [
+      "Joseph Tainter"
+    ],
+    "death_year": 0
+  },
+  "613": {
+    "name": "John Glubb",
+    "queries": [
+      "John Bagot Glubb",
+      "John Glubb"
+    ],
+    "death_year": 1986
+  },
+  "614": {
+    "name": "Ibn Khaldoun (2)",
+    "queries": [
+      "Ibn Khaldun Muqaddimah"
+    ],
+    "death_year": 1406,
+    "search_mode": "title"
+  },
+  "615": {
+    "name": "Polybe",
+    "queries": [
+      "Polybius",
+      "Polybe"
+    ],
+    "death_year": -118
+  },
+  "616": {
+    "name": "Giambattista Vico (2)",
+    "queries": [
+      "Giambattista Vico Scienza Nuova"
+    ],
+    "death_year": 1744,
+    "search_mode": "title"
+  },
+  "617": {
+    "name": "Liu Cixin",
+    "queries": [
+      "Liu Cixin"
+    ],
+    "death_year": 0
+  },
+  "618": {
+    "name": "Peter Watts",
+    "queries": [
+      "Peter Watts Blindsight"
+    ],
+    "death_year": 0
+  },
+  "619": {
+    "name": "Stanisław Lem",
+    "queries": [
+      "Stanislaw Lem",
+      "Stanisław Lem"
+    ],
+    "death_year": 2006
+  },
+  "620": {
+    "name": "Olaf Stapledon",
+    "queries": [
+      "Olaf Stapledon"
+    ],
+    "death_year": 1950
+  },
+  "621": {
+    "name": "Arthur C. Clarke",
+    "queries": [
+      "Arthur C. Clarke"
+    ],
+    "death_year": 2008
+  },
+  "622": {
+    "name": "Isaac Asimov",
+    "queries": [
+      "Isaac Asimov"
+    ],
+    "death_year": 1992
+  },
+  "623": {
+    "name": "Frank Herbert",
+    "queries": [
+      "Frank Herbert"
+    ],
+    "death_year": 1986
+  },
+  "624": {
+    "name": "Greg Egan",
+    "queries": [
+      "Greg Egan"
+    ],
+    "death_year": 0
+  },
+  "625": {
+    "name": "Ted Chiang",
+    "queries": [
+      "Ted Chiang"
+    ],
+    "death_year": 0
+  },
+  "626": {
+    "name": "Edward Bernays",
+    "queries": [
+      "Edward Bernays"
+    ],
+    "death_year": 1995
+  },
+  "627": {
+    "name": "Jacques Ellul (2)",
+    "queries": [
+      "Jacques Ellul Propagandes"
+    ],
+    "death_year": 1994,
+    "search_mode": "title"
+  },
+  "628": {
+    "name": "Gustave Le Bon (2)",
+    "queries": [
+      "Gustave Le Bon Psychologie foules"
+    ],
+    "death_year": 1931,
+    "search_mode": "title"
+  },
+  "629": {
+    "name": "Ernesto Laclau",
+    "queries": [
+      "Ernesto Laclau"
+    ],
+    "death_year": 2014
+  },
+  "630": {
+    "name": "Leo Strauss (2)",
+    "queries": [
+      "Leo Strauss Persecution Art Writing"
+    ],
+    "death_year": 1973,
+    "search_mode": "title"
+  }
+}

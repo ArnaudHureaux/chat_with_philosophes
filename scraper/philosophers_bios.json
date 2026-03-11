@@ -1,0 +1,422 @@
+{
+  "560": {
+    "name": "Jordan Peterson",
+    "birth_year": 1962,
+    "death_year": null,
+    "nationality": "Canadien",
+    "description": "Psychologue clinicien et professeur. Défend une éthique de la responsabilité individuelle fondée sur les archétypes mythologiques et la psychologie jungienne, en opposition au relativisme postmoderne."
+  },
+  "561": {
+    "name": "Sam Harris",
+    "birth_year": 1967,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Neuroscientifique et philosophe du Nouvel Athéisme. Soutient qu'une morale objective peut être fondée sur la science et les faits concernant le bien-être conscient, sans recours à la religion."
+  },
+  "562": {
+    "name": "Douglas Murray",
+    "birth_year": 1979,
+    "death_year": null,
+    "nationality": "Britannique",
+    "description": "Essayiste conservateur. Critique la politique migratoire européenne et les dérives identitaires de la gauche progressiste, défendant les valeurs des Lumières occidentales."
+  },
+  "563": {
+    "name": "Jonathan Haidt",
+    "birth_year": 1963,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Psychologue moral. Sa théorie des fondations morales montre que les jugements éthiques sont d'abord intuitifs, et que libéraux et conservateurs s'appuient sur des registres moraux différents."
+  },
+  "564": {
+    "name": "Steven Pinker",
+    "birth_year": 1954,
+    "death_year": null,
+    "nationality": "Canado-américain",
+    "description": "Psychologue cognitiviste et linguiste. Défend un optimisme rationaliste en montrant, données à l'appui, le déclin historique de la violence et le progrès continu de l'humanité."
+  },
+  "565": {
+    "name": "Bret Weinstein",
+    "birth_year": 1969,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Biologiste évolutionniste. Propose une lecture darwinienne des dynamiques culturelles et institutionnelles, critique l'orthodoxie académique et les dérives idéologiques des universités."
+  },
+  "566": {
+    "name": "John Gray",
+    "birth_year": 1948,
+    "death_year": null,
+    "nationality": "Britannique",
+    "description": "Philosophe politique pessimiste. Critique le mythe du progrès et l'humanisme libéral, arguant que la nature humaine est irréformable et que toute utopie mène à la catastrophe."
+  },
+  "569": {
+    "name": "Robin Hanson",
+    "birth_year": 1959,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Économiste et futurologue. Analyse le comportement humain comme une signalisation sociale déguisée et spécule sur les conséquences de l'émulation cérébrale et de l'IA."
+  },
+  "570": {
+    "name": "Eliezer Yudkowsky",
+    "birth_year": 1979,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Théoricien de l'IA et rationaliste. Fondateur du MIRI, il alerte sur le risque existentiel d'une intelligence artificielle superintelligente non alignée sur les valeurs humaines."
+  },
+  "571": {
+    "name": "Ray Kurzweil",
+    "birth_year": 1948,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Inventeur et futurologue transhumaniste. Prédit la singularité technologique — le moment où l'IA dépassera l'intelligence humaine — et la fusion homme-machine."
+  },
+  "572": {
+    "name": "Max More",
+    "birth_year": 1964,
+    "death_year": null,
+    "nationality": "Britanno-américain",
+    "description": "Philosophe transhumaniste. Fondateur de l'extropianisme, il prône le dépassement des limites biologiques humaines par la technologie, la cryonie et l'auto-transformation rationnelle."
+  },
+  "574": {
+    "name": "Nikolaï Fiodorov",
+    "birth_year": 1829,
+    "death_year": 1903,
+    "nationality": "Russe",
+    "description": "Philosophe du cosmisme russe. Sa « Philosophie de l'œuvre commune » propose la résurrection physique des ancêtres et la colonisation spatiale comme devoir moral de l'humanité."
+  },
+  "575": {
+    "name": "Constantin Tsiolkovski",
+    "birth_year": 1857,
+    "death_year": 1935,
+    "nationality": "Russe",
+    "description": "Scientifique autodidacte et penseur cosmiste. Père théorique de l'astronautique, il voyait la conquête spatiale comme la destinée évolutive de l'espèce humaine."
+  },
+  "576": {
+    "name": "Vladimir Vernadski",
+    "birth_year": 1863,
+    "death_year": 1945,
+    "nationality": "Russe/Ukrainien",
+    "description": "Géochimiste et penseur systémique. A développé le concept de noosphère — la sphère de la pensée humaine comme force géologique transformant la biosphère."
+  },
+  "577": {
+    "name": "Alexandre Bogdanov",
+    "birth_year": 1873,
+    "death_year": 1928,
+    "nationality": "Russe",
+    "description": "Médecin, philosophe et révolutionnaire. Fondateur de la tectologie, ancêtre de la théorie des systèmes, et auteur du roman utopique « Étoile rouge » sur une société martienne communiste."
+  },
+  "580": {
+    "name": "Jean-Pierre Dupuy",
+    "birth_year": 1941,
+    "death_year": null,
+    "nationality": "Français",
+    "description": "Philosophe de la catastrophe. Développe un « catastrophisme éclairé » : pour éviter le pire, il faut le considérer comme certain et non simplement probable."
+  },
+  "582": {
+    "name": "Paul Virilio",
+    "birth_year": 1932,
+    "death_year": 2018,
+    "nationality": "Français",
+    "description": "Urbaniste et penseur de la vitesse. Sa dromologie analyse comment l'accélération technologique abolit l'espace et le temps, menant à un « accident intégral » civilisationnel."
+  },
+  "583": {
+    "name": "Martin Rees",
+    "birth_year": 1942,
+    "death_year": null,
+    "nationality": "Britannique",
+    "description": "Astrophysicien et Astronome royal. Alerte sur les risques existentiels (bioterrorisme, IA, nanotechnologies) menaçant la survie de l'humanité au XXIe siècle."
+  },
+  "584": {
+    "name": "Garrett Hardin",
+    "birth_year": 1915,
+    "death_year": 2003,
+    "nationality": "Américain",
+    "description": "Écologiste et éthicien. Célèbre pour « La tragédie des communs » : sans régulation, les ressources partagées sont inévitablement surexploitées par l'intérêt individuel."
+  },
+  "585": {
+    "name": "Richard Dawkins",
+    "birth_year": 1941,
+    "death_year": null,
+    "nationality": "Britannique",
+    "description": "Biologiste évolutionniste. A popularisé la théorie du « gène égoïste » — l'évolution opère au niveau du gène, non de l'individu — et inventé le concept de mème."
+  },
+  "586": {
+    "name": "Edward O. Wilson",
+    "birth_year": 1929,
+    "death_year": 2021,
+    "nationality": "Américain",
+    "description": "Entomologiste et fondateur de la sociobiologie. Défend l'idée que le comportement social humain a des racines biologiques évolutives profondes et milite pour la biodiversité."
+  },
+  "587": {
+    "name": "Konrad Lorenz",
+    "birth_year": 1903,
+    "death_year": 1989,
+    "nationality": "Autrichien",
+    "description": "Éthologue, prix Nobel. Fondateur de l'éthologie moderne, il a étudié l'agression innée chez l'animal et l'homme, et alerté sur la dégénérescence de la civilisation."
+  },
+  "588": {
+    "name": "Robert Ardrey",
+    "birth_year": 1908,
+    "death_year": 1980,
+    "nationality": "Américain",
+    "description": "Dramaturge et anthropologue. A popularisé l'hypothèse du « singe tueur » : la violence, la territorialité et la chasse sont les moteurs de l'évolution humaine."
+  },
+  "589": {
+    "name": "Desmond Morris",
+    "birth_year": 1928,
+    "death_year": null,
+    "nationality": "Britannique",
+    "description": "Zoologue et éthologue. Auteur du « Singe nu », il analyse le comportement humain — sexualité, hiérarchie, agressivité — comme celui d'un primate parmi d'autres."
+  },
+  "590": {
+    "name": "Thomas Malthus",
+    "birth_year": 1766,
+    "death_year": 1834,
+    "nationality": "Britannique",
+    "description": "Économiste et démographe. A formulé la loi selon laquelle la population croît géométriquement tandis que les ressources croissent arithmétiquement, menant inévitablement à la famine."
+  },
+  "591": {
+    "name": "Francis Galton",
+    "birth_year": 1822,
+    "death_year": 1911,
+    "nationality": "Britannique",
+    "description": "Polymathe et statisticien. Cousin de Darwin, il a fondé l'eugénisme et la psychométrie, cherchant à améliorer l'espèce humaine par la sélection héréditaire."
+  },
+  "592": {
+    "name": "Julian Huxley",
+    "birth_year": 1887,
+    "death_year": 1975,
+    "nationality": "Britannique",
+    "description": "Biologiste et premier directeur de l'UNESCO. A inventé le terme « transhumanisme » et défendu un humanisme évolutionniste où l'homme prend en main sa propre évolution."
+  },
+  "593": {
+    "name": "Carl von Clausewitz",
+    "birth_year": 1780,
+    "death_year": 1831,
+    "nationality": "Prussien",
+    "description": "Stratège militaire. « De la guerre » pose que la guerre est la continuation de la politique par d'autres moyens, mêlant brouillard, friction et montée aux extrêmes."
+  },
+  "594": {
+    "name": "Thomas Schelling",
+    "birth_year": 1921,
+    "death_year": 2016,
+    "nationality": "Américain",
+    "description": "Économiste, prix Nobel. Pionnier de la théorie des jeux appliquée aux conflits, il a théorisé la dissuasion nucléaire, les points focaux et la stratégie de l'engagement."
+  },
+  "595": {
+    "name": "Herman Kahn",
+    "birth_year": 1922,
+    "death_year": 1983,
+    "nationality": "Américain",
+    "description": "Stratège nucléaire et futurologue de la RAND Corporation. A théorisé les scénarios de guerre thermonucléaire et la notion d'escalade, inspirant le Dr Folamour de Kubrick."
+  },
+  "596": {
+    "name": "John von Neumann",
+    "birth_year": 1903,
+    "death_year": 1957,
+    "nationality": "Hungaro-américain",
+    "description": "Mathématicien polymathe. Fondateur de la théorie des jeux, de l'architecture informatique moderne et contributeur clé à la mécanique quantique et à la bombe atomique."
+  },
+  "597": {
+    "name": "Antoine-Henri Jomini",
+    "birth_year": 1779,
+    "death_year": 1869,
+    "nationality": "Suisse",
+    "description": "Stratège militaire. Rival de Clausewitz, il a systématisé l'art de la guerre en principes géométriques — lignes intérieures, concentration des forces, points décisifs."
+  },
+  "598": {
+    "name": "Thucydide",
+    "birth_year": -460,
+    "death_year": -400,
+    "nationality": "Grec (Athènes)",
+    "description": "Historien et stratège athénien. Sa « Guerre du Péloponnèse » fonde le réalisme politique : les rapports de force, non la morale, déterminent les relations entre cités."
+  },
+  "599": {
+    "name": "Georges Sorel",
+    "birth_year": 1847,
+    "death_year": 1922,
+    "nationality": "Français",
+    "description": "Théoricien du syndicalisme révolutionnaire. Sa théorie du mythe mobilisateur — notamment la grève générale — a influencé à la fois l'extrême gauche et l'extrême droite."
+  },
+  "600": {
+    "name": "Calliclès",
+    "birth_year": -484,
+    "death_year": -400,
+    "nationality": "Grec (Athènes)",
+    "description": "Personnage du Gorgias de Platon, peut-être fictif. Défend le droit naturel du plus fort contre les lois conventionnelles, qui ne servent qu'à brider les natures supérieures."
+  },
+  "601": {
+    "name": "Thrasymaque",
+    "birth_year": -459,
+    "death_year": -400,
+    "nationality": "Grec (Chalcédoine)",
+    "description": "Sophiste. Dans la République de Platon, il soutient que la justice n'est rien d'autre que l'intérêt du plus fort — les lois sont faites par les puissants pour eux-mêmes."
+  },
+  "602": {
+    "name": "Thomas Carlyle",
+    "birth_year": 1795,
+    "death_year": 1881,
+    "nationality": "Britannique (Écossais)",
+    "description": "Essayiste et historien. Sa théorie des « Grands Hommes » pose l'histoire comme produit des héros, et il critique la démocratie libérale et l'utilitarisme comme spirituellement vides."
+  },
+  "603": {
+    "name": "Ragnar Redbeard",
+    "birth_year": 1859,
+    "death_year": 1929,
+    "nationality": "Néo-zélandais/Australien",
+    "description": "Pseudonyme probable d'Arthur Desmond. Auteur de « Might is Right », manifeste darwiniste social radical prônant la loi du plus fort contre toute morale égalitaire."
+  },
+  "604": {
+    "name": "Jack London",
+    "birth_year": 1876,
+    "death_year": 1916,
+    "nationality": "Américain",
+    "description": "Romancier et militant socialiste. Ses récits (L'Appel de la forêt, Martin Eden) mêlent darwinisme, nietzschéisme et critique sociale dans une exaltation de la force vitale."
+  },
+  "605": {
+    "name": "Filippo Marinetti",
+    "birth_year": 1876,
+    "death_year": 1944,
+    "nationality": "Italien",
+    "description": "Poète et fondateur du futurisme. Son manifeste de 1909 exalte la vitesse, la machine, la guerre et la destruction du passé comme moteurs d'un art et d'une civilisation nouveaux."
+  },
+  "606": {
+    "name": "Pierre Drieu la Rochelle",
+    "birth_year": 1893,
+    "death_year": 1945,
+    "nationality": "Français",
+    "description": "Écrivain et intellectuel fasciste. Oscillant entre décadentisme et vitalisme, il a cherché dans le fascisme européen un remède au déclin de la civilisation occidentale."
+  },
+  "607": {
+    "name": "Yukio Mishima",
+    "birth_year": 1925,
+    "death_year": 1970,
+    "nationality": "Japonais",
+    "description": "Romancier et dramaturge. Son esthétique fusionne beauté, mort et action, culminant dans son seppuku rituel — protestation contre le déclin spirituel du Japon moderne."
+  },
+  "608": {
+    "name": "Arnold Toynbee",
+    "birth_year": 1889,
+    "death_year": 1975,
+    "nationality": "Britannique",
+    "description": "Historien des civilisations. Son « Étude de l'histoire » analyse le cycle de naissance, croissance et déclin des civilisations par le mécanisme défi-réponse."
+  },
+  "609": {
+    "name": "Fernand Braudel",
+    "birth_year": 1902,
+    "death_year": 1985,
+    "nationality": "Français",
+    "description": "Historien de l'école des Annales. A révolutionné l'historiographie par la longue durée, les structures géographiques et matérielles qui conditionnent les civilisations."
+  },
+  "610": {
+    "name": "Peter Turchin",
+    "birth_year": 1957,
+    "death_year": null,
+    "nationality": "Russo-américain",
+    "description": "Historien quantitatif et fondateur de la cliodynamique. Modélise mathématiquement les cycles de montée et de chute des sociétés complexes, prédisant des crises de « surproduction des élites »."
+  },
+  "611": {
+    "name": "Jared Diamond",
+    "birth_year": 1937,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Géographe et biologiste. « De l'inégalité parmi les sociétés » explique les différences de développement entre civilisations par des facteurs géographiques et environnementaux, non raciaux."
+  },
+  "612": {
+    "name": "Joseph Tainter",
+    "birth_year": 1949,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Anthropologue et historien. Sa théorie de l'effondrement des sociétés complexes repose sur les rendements décroissants de la complexité organisationnelle."
+  },
+  "613": {
+    "name": "John Glubb",
+    "birth_year": 1897,
+    "death_year": 1986,
+    "nationality": "Britannique",
+    "description": "Officier et historien. Son essai « The Fate of Empires » identifie un cycle récurrent d'environ 250 ans pour la montée et la chute des empires, de l'expansion à la décadence."
+  },
+  "615": {
+    "name": "Polybe",
+    "birth_year": -200,
+    "death_year": -118,
+    "nationality": "Grec (Arcadie)",
+    "description": "Historien et théoricien politique. A théorisé l'anacyclose — le cycle naturel des régimes politiques — et analysé la constitution mixte romaine comme clé de sa puissance."
+  },
+  "617": {
+    "name": "Liu Cixin",
+    "birth_year": 1963,
+    "death_year": null,
+    "nationality": "Chinois",
+    "description": "Auteur de science-fiction. Sa trilogie « Le Problème à trois corps » explore la « forêt sombre » cosmique : tout contact entre civilisations mène à la destruction par précaution."
+  },
+  "618": {
+    "name": "Peter Watts",
+    "birth_year": 1958,
+    "death_year": null,
+    "nationality": "Canadien",
+    "description": "Biologiste marin et auteur de hard SF. Ses romans (Blindsight) questionnent la conscience comme sous-produit évolutif potentiellement inutile, voire nuisible."
+  },
+  "619": {
+    "name": "Stanisław Lem",
+    "birth_year": 1921,
+    "death_year": 2006,
+    "nationality": "Polonais",
+    "description": "Écrivain et philosophe de la science-fiction. Ses œuvres (Solaris, Summa Technologiae) explorent les limites de la connaissance humaine face à l'altérité radicale."
+  },
+  "620": {
+    "name": "Olaf Stapledon",
+    "birth_year": 1886,
+    "death_year": 1950,
+    "nationality": "Britannique",
+    "description": "Philosophe et auteur de SF cosmique. « Les Derniers et les Premiers » et « Star Maker » embrassent l'histoire de l'humanité sur des milliards d'années dans une vision quasi-mystique."
+  },
+  "621": {
+    "name": "Arthur C. Clarke",
+    "birth_year": 1917,
+    "death_year": 2008,
+    "nationality": "Britannique",
+    "description": "Auteur de SF et futurologue. Ses œuvres (2001, Rendez-vous avec Rama) imaginent le dépassement de l'humanité par des intelligences supérieures et la transcendance technologique."
+  },
+  "622": {
+    "name": "Isaac Asimov",
+    "birth_year": 1920,
+    "death_year": 1992,
+    "nationality": "Russo-américain",
+    "description": "Écrivain de SF et vulgarisateur. A fondé la psychohistoire fictive et les trois lois de la robotique, explorant la gouvernance rationnelle des sociétés et des machines."
+  },
+  "623": {
+    "name": "Frank Herbert",
+    "birth_year": 1920,
+    "death_year": 1986,
+    "nationality": "Américain",
+    "description": "Auteur de Dune. Sa saga explore les dangers du messianisme, l'écologie politique, la prescience comme piège, et la co-évolution entre humains, pouvoir et environnement."
+  },
+  "624": {
+    "name": "Greg Egan",
+    "birth_year": 1961,
+    "death_year": null,
+    "nationality": "Australien",
+    "description": "Auteur de hard SF philosophique. Ses romans explorent l'identité dans un monde post-humain — upload de conscience, géométries alternatives, physique spéculative."
+  },
+  "625": {
+    "name": "Ted Chiang",
+    "birth_year": 1967,
+    "death_year": null,
+    "nationality": "Américain",
+    "description": "Auteur de nouvelles de SF. Ses récits (« L'Histoire de ta vie », « Exhalation ») sont des expériences de pensée philosophiques sur le libre arbitre, le langage et la connaissance."
+  },
+  "626": {
+    "name": "Edward Bernays",
+    "birth_year": 1891,
+    "death_year": 1995,
+    "nationality": "Austro-américain",
+    "description": "Neveu de Freud et père des relations publiques. A théorisé la manipulation des foules par la propagande et le « consentement fabriqué » au service du pouvoir et du commerce."
+  },
+  "629": {
+    "name": "Ernesto Laclau",
+    "birth_year": 1935,
+    "death_year": 2014,
+    "nationality": "Argentin",
+    "description": "Théoricien politique post-marxiste. Sa théorie du populisme comme logique politique — chaîne d'équivalences, signifiant vide, construction du « peuple » — a influencé Podemos et LFI."
+  }
+}
