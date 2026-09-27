@@ -49,7 +49,7 @@ DATA_FILE = Path(__file__).resolve().parent / "philosophers_data.json"
 
 LIBGEN_LI = "https://libgen.li"
 VERIFY_SSL = False
-REQUEST_DELAY = 2.0       # seconds between requests
+REQUEST_DELAY = 3.0       # seconds between requests
 MAX_BOOKS = 100           # books to download per author
 MAX_RESULTS = 100         # results per libgen search
 
@@ -121,18 +121,31 @@ def get_canonical_name(philosopher: dict) -> str:
 #  HTTP
 # ═══════════════════════════════════════════════════════════
 
-def safe_get(url, params=None, timeout=30):
-    """GET with SSL bypass and error handling."""
-    try:
-        r = requests.get(
-            url, params=params, headers=HEADERS,
-            timeout=timeout, verify=VERIFY_SSL
-        )
-        r.raise_for_status()
-        return r
-    except requests.RequestException as e:
-        log.warning("GET failed %s: %s", url[:80], e)
-        return None
+def safe_get(url, params=None, timeout=30, retries=3):
+    """GET with SSL bypass, error handling, and retry on failure."""
+    for attempt in range(retries):
+        try:
+            r = requests.get(
+                url, params=params, headers=HEADERS,
+                timeout=timeout, verify=VERIFY_SSL
+            )
+            # Detect libgen DB overload in response body
+            if r.status_code == 200 and "max_user_connections" in r.text:
+                wait = 30 * (attempt + 1)
+                log.warning("⏳ libgen DB overload (max_user_connections) — wait %ds…", wait)
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            return r
+        except requests.RequestException as e:
+            if attempt < retries - 1:
+                wait = 10 * (attempt + 1)
+                log.warning("GET failed %s: %s — retry in %ds", url[:80], e, wait)
+                time.sleep(wait)
+            else:
+                log.warning("GET failed %s: %s — giving up", url[:80], e)
+                return None
+    return None
 
 
 # ═══════════════════════════════════════════════════════════
